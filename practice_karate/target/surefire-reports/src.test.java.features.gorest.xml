@@ -1,0 +1,24 @@
+<testsuite failures="0" name="src/test/java/features/gorest.feature" skipped="0" tests="2" time="0.896776">
+  <testcase classname="src.test.java.features.gorest" name="successfull response" time="0.692862">
+    <system-out>Given url baseUrl ......................................................... passed
+And path 'public/v2/users' ................................................ passed
+When method GET ........................................................... passed
+Then status 200 ........................................................... passed
+* print response .......................................................... passed
+* def responseBody = response ............................................. passed
+* print responseBody[1].name .............................................. passed</system-out>
+  </testcase>
+  <testcase classname="src.test.java.features.gorest" name="404 response" time="0.203914">
+    <system-out>Given url baseUrl ......................................................... passed
+And path 'public/v2/users' ................................................ passed
+When method GET ........................................................... passed
+Then status 200 ........................................................... passed
+* print response .......................................................... passed
+* def responseBody = response ............................................. passed
+* print responseBody[1].name .............................................. passed
+Given url baseUrl ......................................................... passed
+And path 'public/v2/users/1' .............................................. passed
+When method GET ........................................................... passed
+Then status 404 ........................................................... passed</system-out>
+  </testcase>
+</testsuite>

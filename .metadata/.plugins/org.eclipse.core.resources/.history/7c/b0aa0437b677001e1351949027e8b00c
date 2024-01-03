@@ -1,0 +1,6 @@
+Feature: Sample feature file for Test
+
+Scenario: Verify GET Request of ReqRes url
+
+Given url 'https://reqres.in/'
+Then path api/users?page=2

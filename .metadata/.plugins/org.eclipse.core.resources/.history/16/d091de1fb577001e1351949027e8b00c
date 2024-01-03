@@ -1,0 +1,9 @@
+package TestRunner;
+
+public class TestRunnerClass {
+	@Karate.Test
+    Karate testSample() {
+        return Karate.run("classpath:karate-sample.feature").relativeTo(getClass());
+    }
+
+}

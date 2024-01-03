@@ -1,0 +1,26 @@
+<testsuite failures="0" name="src/test/java/features/query_params.feature" skipped="0" tests="2" time="1.149853">
+  <testcase classname="src.test.java.features.query_params" name="passing query parameters" time="0.78443">
+    <system-out>* def query = {status:'active',gender:'female'} ........................... passed
+Given url baseUrl2 ........................................................ passed
+And params query .......................................................... passed
+When method GET ........................................................... passed
+Then status 200 ........................................................... passed
+* print response .......................................................... passed</system-out>
+  </testcase>
+  <testcase classname="src.test.java.features.query_params" name="get the count of active members" time="0.365423">
+    <system-out>* def query = {status:'active',gender:'female'} ........................... passed
+Given url baseUrl2 ........................................................ passed
+And params query .......................................................... passed
+When method GET ........................................................... passed
+Then status 200 ........................................................... passed
+* print response .......................................................... passed
+* def query = {status:'active',gender:'female'} ........................... passed
+Given url baseUrl2 ........................................................ passed
+And params query .......................................................... passed
+When method GET ........................................................... passed
+Then status 200 ........................................................... passed
+* print response .......................................................... passed
+* def activeCount = response.length ....................................... passed
+* print 'active members =  '+activeCount .................................. passed</system-out>
+  </testcase>
+</testsuite>

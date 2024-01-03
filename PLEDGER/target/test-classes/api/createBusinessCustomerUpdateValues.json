@@ -1,0 +1,43 @@
+{
+    "method": "CustomerService.AddCustomer",
+    "id": 1,
+    "params": {
+        "payload": {
+            "address": {
+                "zip": "47096",
+                "country": "US",
+                "city": "SA",
+                "addressLine1": "722 Dictum Av",
+                "state": "MI"
+            },
+            "kycStatus": "ACTIVE",
+            "canCreateApiUsers": true,
+            "dateestablished": "19901107",
+            "generalbusinessdescription": "industries",
+            "customerData": "BUSINESS ACCOUNT",
+            "program": "MASTER",
+            "type": "BUSINESS",
+            "qrCodeEnabled": false,
+            "businessNameLegal": "CorporatewLTyK",
+            "monthlyprojection": {
+                "amount": 2,
+                "currency": "USD"
+            },
+            "identification": [{
+                "type": "SSN",
+                "value": "101315245"
+            }],
+            "contact": {
+                "phonenumber": "1013152457",
+                "email": "CorporatewLTyK@netxd.com"
+            },
+            "minapprovers": 1,
+            "mobileAuthEnabled": true
+        },
+        "api": {
+            "credential": "Basic cmVzdGFzc3VyZWRAbmV0eGQuY29tOlRlc3RAMTIzNA==",
+            "signature": "{{signature}}",
+            "keyId": "1420011"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+<testsuite failures="0" name="src/test/java/features/test.feature" skipped="0" tests="3" time="0.070033">
+  <testcase classname="src.test.java.features.test" name="Saying Hi to the user" time="0.007">
+    <system-out>* print 'Hello new user' .................................................. passed
+* print 'Karate API testing welcomes you' ................................. passed</system-out>
+  </testcase>
+  <testcase classname="src.test.java.features.test" name="Declare variables and print it" time="0.02096">
+    <system-out>* print 'Hello new user' .................................................. passed
+* print 'Karate API testing welcomes you' ................................. passed
+* def num1 = 10 ........................................................... passed
+* def num2 = 20 ........................................................... passed
+* print 'total = '+(num1+num2) ............................................ passed</system-out>
+  </testcase>
+  <testcase classname="src.test.java.features.test" name="print the jsonObject" time="0.042074">
+    <system-out>* print 'Hello new user' .................................................. passed
+* print 'Karate API testing welcomes you' ................................. passed
+* def num1 = 10 ........................................................... passed
+* def num2 = 20 ........................................................... passed
+* print 'total = '+(num1+num2) ............................................ passed
+* def jsonBody = .......................................................... passed
+* print jsonBody .......................................................... passed
+* print jsonBody.params.payload.transactionAmount.amount .................. passed</system-out>
+  </testcase>
+</testsuite>

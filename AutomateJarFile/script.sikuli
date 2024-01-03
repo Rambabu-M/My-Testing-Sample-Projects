@@ -1,0 +1,10 @@
+textbox = "/home/rambabu/Documents/workspace_eclipse/AutomateJarFile/src/test/resources/sikuliImages/pin_textbox.png"  # Replace with the actual path to the captured textbox image
+
+# Click on the text box to focus on it
+click(textbox)
+
+# Add a short delay
+wait(1)
+
+# Type the PIN "1234"
+type("1234")

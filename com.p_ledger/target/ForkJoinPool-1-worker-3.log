@@ -1,0 +1,107 @@
+20:30:37.054 config init.... 
+20:30:37.342 MEYCIQCYTjd+wLo4qyQYQ6/dZro4P//Y9I5MGgmxua34oNg9DAIhAL8R/Vwb7kZtGHQgNioWqV/Yp3RoeBUcbMvmqyefis1e 
+20:30:37.344 [print] {
+  "method": "ledger.ach.transfer",
+  "id": "1",
+  "params": {
+    "payload": {
+      "channel": "456rddfg",
+      "transactionType": "ACH_OUT",
+      "product": "PL",
+      "program": "100000000132001",
+      "transactionDateTime": "2022-08-29 06:20:30",
+      "reference": "ref2022121530214",
+      "reason": "Settlement",
+      "transactionAmount": {
+        "amount": "514",
+        "currency": "USD"
+      },
+      "debtor": {
+        "userType": "INDIVIDUAL",
+        "identification": "89900200002",
+        "identificationType": "SSN",
+        "firstName": "Craig",
+        "middleName": "Brathwaite",
+        "lastName": "Nick"
+      },
+      "debtorPostalAddress": {
+        "addressType": "HOUSE",
+        "addressLine1": "3745SWWanamakerRD",
+        "addressLine2": "SuiteC",
+        "city": "Topeka",
+        "state": "KS",
+        "zipCode": "66610",
+        "countryCode": "840"
+      },
+      "debtorContact": {
+        "primaryEmail": "craig@netxd.com",
+        "primaryPhone": "7850010001"
+      },
+      "debtorAccount": {
+        "identification": "200087427799698",
+        "identificationType": "ACCOUNT_NUMBER",
+        "institution": {
+          "name": "CBWBANK",
+          "identification": "101110802",
+          "identificationType": "ABA"
+        }
+      },
+      "creditor": {
+        "userType": "INDIVIDUAL",
+        "identification": "89900200002",
+        "identificationType": "SSN",
+        "firstName": "Andy",
+        "_middleName": "Lee",
+        "lastName": "Prescott"
+      },
+      "creditorPostalAddress": {
+        "addressType": "HOUSE",
+        "addressLine1": "3745SWWanamakerRD",
+        "addressLine2": "SuiteC",
+        "city": "Topeka",
+        "state": "KS",
+        "zipCode": "66610",
+        "countryCode": "840"
+      },
+      "creditorContact": {
+        "primaryEmail": "aprescott@demobank.com",
+        "primaryPhone": "7850010001"
+      },
+      "creditorAccount": {
+        "identification": "20003355930",
+        "identificationType": "ACCOUNT_NUMBER",
+        "identificationType2": "SAVINGS",
+        "institution": {
+          "name": "SALISBURY BANK & TRUST CO",
+          "identification": "011102612",
+          "identificationType": "ABA"
+        }
+      }
+    }
+  },
+  "api": {
+    "credential": "Basic dG9ycmV0b0BuZXR4ZC5jb206MTAzNmQ4NmY0ZDU5NGUxYmFhODMxOTUyODNhYmFkZGE=",
+    "signature": "MEYCIQCYTjd+wLo4qyQYQ6/dZro4P//Y9I5MGgmxua34oNg9DAIhAL8R/Vwb7kZtGHQgNioWqV/Yp3RoeBUcbMvmqyefis1e",
+    "apiKey": "1036d86f4d594e1baa83195283abadda"
+  }
+}
+
+20:30:37.544 request:
+1 > POST https://connectors.cbwpayments.com/PLMASTER/rpc/paymentv2
+1 > Accept-Encoding: gzip,deflate
+1 > Connection: Keep-Alive
+1 > Content-Length: 1794
+1 > Content-Type: application/json; charset=UTF-8
+1 > Host: connectors.cbwpayments.com
+1 > User-Agent: Apache-HttpClient/4.5.12 (Java/11.0.17)
+{"method":"ledger.ach.transfer","id":"1","params":{"payload":{"channel":"456rddfg","transactionType":"ACH_OUT","product":"PL","program":"100000000132001","transactionDateTime":"2022-08-29 06:20:30","reference":"ref2022121530214","reason":"Settlement","transactionAmount":{"amount":"514","currency":"USD"},"debtor":{"userType":"INDIVIDUAL","identification":"89900200002","identificationType":"SSN","firstName":"Craig","middleName":"Brathwaite","lastName":"Nick"},"debtorPostalAddress":{"addressType":"HOUSE","addressLine1":"3745SWWanamakerRD","addressLine2":"SuiteC","city":"Topeka","state":"KS","zipCode":"66610","countryCode":"840"},"debtorContact":{"primaryEmail":"craig@netxd.com","primaryPhone":"7850010001"},"debtorAccount":{"identification":"200087427799698","identificationType":"ACCOUNT_NUMBER","institution":{"name":"CBWBANK","identification":"101110802","identificationType":"ABA"}},"creditor":{"userType":"INDIVIDUAL","identification":"89900200002","identificationType":"SSN","firstName":"Andy","_middleName":"Lee","lastName":"Prescott"},"creditorPostalAddress":{"addressType":"HOUSE","addressLine1":"3745SWWanamakerRD","addressLine2":"SuiteC","city":"Topeka","state":"KS","zipCode":"66610","countryCode":"840"},"creditorContact":{"primaryEmail":"aprescott@demobank.com","primaryPhone":"7850010001"},"creditorAccount":{"identification":"20003355930","identificationType":"ACCOUNT_NUMBER","identificationType2":"SAVINGS","institution":{"name":"SALISBURY BANK & TRUST CO","identification":"011102612","identificationType":"ABA"}}}},"api":{"credential":"Basic dG9ycmV0b0BuZXR4ZC5jb206MTAzNmQ4NmY0ZDU5NGUxYmFhODMxOTUyODNhYmFkZGE=","signature":"MEYCIQCYTjd+wLo4qyQYQ6/dZro4P//Y9I5MGgmxua34oNg9DAIhAL8R/Vwb7kZtGHQgNioWqV/Yp3RoeBUcbMvmqyefis1e","apiKey":"1036d86f4d594e1baa83195283abadda"}}
+
+20:30:38.979 response time in milliseconds: 1431.61
+1 < 200
+1 < Connection: keep-alive
+1 < Content-Length: 69
+1 < Content-Type: application/json
+1 < Date: Thu, 15 Dec 2022 15:00:38 GMT
+{"Error":{"Code":"INVALID_SIGNATURE","Message":"Invalid Signature"}}
+
+

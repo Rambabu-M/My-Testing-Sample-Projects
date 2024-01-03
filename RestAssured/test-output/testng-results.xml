@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-16T17:54:05 IST" name="Default suite" finished-at="2023-08-16T17:54:06 IST" duration-ms="1081">
+    <groups>
+    </groups>
+    <test started-at="2023-08-16T17:54:05 IST" name="Default test" finished-at="2023-08-16T17:54:06 IST" duration-ms="1081">
+      <class name="restAssuredNonBdd.restReadingJsonFile">
+        <test-method signature="addEmpFromJsonFile()[pri:0, instance:restAssuredNonBdd.restReadingJsonFile@20ce78ec]" started-at="2023-08-16T17:54:05 IST" name="addEmpFromJsonFile" finished-at="2023-08-16T17:54:06 IST" duration-ms="1051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmpFromJsonFile -->
+      </class> <!-- restAssuredNonBdd.restReadingJsonFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

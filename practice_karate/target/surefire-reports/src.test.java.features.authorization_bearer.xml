@@ -1,0 +1,11 @@
+<testsuite failures="0" name="src/test/java/features/authorization_bearer.feature" skipped="0" tests="1" time="0.747738">
+  <testcase classname="src.test.java.features.authorization_bearer" name="bearer token added to header" time="0.747738">
+    <system-out>Given header Authorization = bearerToken .................................. passed
+When url baseUrl .......................................................... passed
+And path 'public/v2/users' ................................................ passed
+And method GET ............................................................ passed
+Then status 200 ........................................................... passed
+* print bearerToken ....................................................... passed
+* print response .......................................................... passed</system-out>
+  </testcase>
+</testsuite>

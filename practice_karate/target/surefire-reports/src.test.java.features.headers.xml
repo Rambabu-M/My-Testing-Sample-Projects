@@ -1,0 +1,31 @@
+<testsuite failures="0" name="src/test/java/features/headers.feature" skipped="0" tests="2" time="0.762992">
+  <testcase classname="src.test.java.features.headers" name="mention the headers in the feature file" time="0.561518">
+    <system-out>Given header User-Agent = 'PostmanRuntime/7.29.2' ......................... passed
+And header Accept = '*/*' ................................................. passed
+And header Accept-Encoding = 'gzip, deflate, br' .......................... passed
+And header Connection =  'keep-alive' ..................................... passed
+Given url baseUrl ......................................................... passed
+And path 'public/v2/users/2473' ........................................... passed
+When method GET ........................................................... passed
+Then status 200 ........................................................... passed
+* print response .......................................................... passed</system-out>
+  </testcase>
+  <testcase classname="src.test.java.features.headers" name="headers part 2" time="0.201475">
+    <system-out>Given header User-Agent = 'PostmanRuntime/7.29.2' ......................... passed
+And header Accept = '*/*' ................................................. passed
+And header Accept-Encoding = 'gzip, deflate, br' .......................... passed
+And header Connection =  'keep-alive' ..................................... passed
+Given url baseUrl ......................................................... passed
+And path 'public/v2/users/2473' ........................................... passed
+When method GET ........................................................... passed
+Then status 200 ........................................................... passed
+* print response .......................................................... passed
+* def header_params = {User-Agent:'PostmanRuntime/7.29.2',Accept:'/*',Accept-Encoding:'gzip, deflate, br',Connection:'keep-alive'} . passed
+Given headers header_params ............................................... passed
+When url baseUrl .......................................................... passed
+And path 'public/v2/users/2473' ........................................... passed
+When method GET ........................................................... passed
+Then status 200 ........................................................... passed
+* print response .......................................................... passed</system-out>
+  </testcase>
+</testsuite>

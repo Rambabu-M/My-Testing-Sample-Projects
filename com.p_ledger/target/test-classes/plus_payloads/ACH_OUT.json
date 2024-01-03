@@ -1,0 +1,85 @@
+{
+  "method" : "ledger.ach.transfer",
+  "id" : "1",
+  "params" : {
+    "payload" : {
+      "channel" : "ACH",
+      "transactionType" : "ACH_OUT",
+      "product" : "PL",
+      "program" : "100000000132001",
+      "transactionDateTime" : "2022-08-29 06:20:30",
+      "reference" : "REFACHOUT024",
+      "reason" : "Settlement",
+      "transactionAmount" : {
+        "amount" : "511",
+        "currency" : "USD"
+      },
+      "debtor" : {
+        "userType" : "INDIVIDUAL",
+        "identification" : "89900200002",
+        "identificationType" : "SSN",
+        "firstName" : "Craig",
+        "middleName" : "Brathwaite",
+        "lastName" : "Nick"
+      },
+      "debtorPostalAddress" : {
+        "addressType" : "HOUSE",
+        "addressLine1" : "3745SWWanamakerRD",
+        "addressLine2" : "SuiteC",
+        "city" : "Topeka",
+        "state" : "KS",
+        "zipCode" : "66610",
+        "countryCode" : "840"
+      },
+      "debtorContact" : {
+        "primaryEmail" : "craig@netxd.com",
+        "primaryPhone" : "7850010001"
+      },
+      "debtorAccount" : {
+        "identification" : "200087427799698",
+        "identificationType" : "ACCOUNT_NUMBER",
+        "institution" : {
+          "name" : "CBWBANK",
+          "identification" : "101110802",
+          "identificationType" : "ABA"
+        }
+      },
+      "creditor" : {
+        "userType" : "INDIVIDUAL",
+        "identification" : "89900200002",
+        "identificationType" : "SSN",
+        "firstName" : "Andy",
+        "_middleName" : "Lee",
+        "lastName" : "Prescott"
+      },
+      "creditorPostalAddress" : {
+        "addressType" : "HOUSE",
+        "addressLine1" : "3745SWWanamakerRD",
+        "addressLine2" : "SuiteC",
+        "city" : "Topeka",
+        "state" : "KS",
+        "zipCode" : "66610",
+        "countryCode" : "840"
+      },
+      "creditorContact" : {
+        "primaryEmail" : "aprescott@demobank.com",
+        "primaryPhone" : "7850010001"
+      },
+      "creditorAccount" : {
+        "identification" : "20003355930",
+        "identificationType" : "ACCOUNT_NUMBER",
+        "identificationType2" : "SAVINGS",
+        "institution" : {
+          "name" : "SALISBURY BANK & TRUST CO",
+          "identification" : "011102612",
+          "identificationType" : "ABA"
+        }
+      }
+    }
+  },
+  "api" : {
+    "credential" : "Basic dG9ycmV0b0BuZXR4ZC5jb206YzVhMTU4ZTc1ZDNjNGFiOTk0M2FkMGIxNTVkNWZmZDE=",
+    "signature" : "{{signature}}",
+    "apiKey" : "c5a158e75d3c4ab9943ad0b155d5ffd1"
+  }
+}

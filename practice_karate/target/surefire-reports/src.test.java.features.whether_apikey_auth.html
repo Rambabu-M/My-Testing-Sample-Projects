@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+      
+    <head>
+        <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+            
+        <meta charset="utf-8">
+            
+        <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
+            
+        <link href="res/bootstrap.min.css" rel="stylesheet" type="text/css">
+            
+        <link href="res/karate-report.css" rel="stylesheet" type="text/css">
+            
+        <link href="favicon.ico" rel="shortcut icon">
+            <script src="res/jquery.min.js" type="text/javascript"></script>
+    <script src="res/jquery.tablesorter.min.js" type="text/javascript"></script>
+    <script src="res/bootstrap.min.js" type="text/javascript"></script>
+    <script src="res/karate-report.js" type="text/javascript"></script>
+    
+        <title>src.test.java.features.whether_apikey_auth</title>
+          
+    </head>
+      
+    <body>
+            
+        <div id="root-container">
+                  
+            <div id="leftnav">
+                        
+                <div class="nav-logo">
+                              <a href="karate-summary.html">
+            <img alt="Karate" src="res/karate-logo.svg">
+          </a>
+          
+                    <div class="nav-count">
+                                    
+                        <div class="bg-success" id="nav-pass">1</div>
+                                    
+                        <div class="bg-danger" id="nav-fail">0</div>
+                                  
+                    </div>
+                            
+                </div>
+                        
+                <div id="nav-type">Scenarios</div>
+                         
+        
+                <div id="nav-date">2022-11-17 12:19:28 PM</div>
+                        
+      
+                <div class="nav-container">
+                    <div class="nav-item passed">
+                        <a href="#[1:3]">[1:3] using api key auth </a>
+                    </div>
+                </div>
+            </div>
+                  
+            <div id="content">
+                      
+                <div class="page-heading alert alert-primary">
+                    <a href="karate-summary.html">Summary</a><span class="feature-label">|</span><a href="karate-tags.html">Tags</a><span class="feature-label">|</span><span class="feature-label">Feature:</span><span class="feature-name">src/test/java/features/whether_apikey_auth.feature</span><span class="feature-description">hit whether api</span>
+                </div>
+                <div class="scenario">
+                    <div class="scenario-heading" id="[1:3]">
+                        <div class="heading-container">
+                            <div class="scenario-tags"></div>
+                            <span class="scenario-keyword">Scenario: [1:3]</span><span class="scenario-name">using api key auth </span>
+                        </div>
+                        <div class="scenario-time passed">ms: 633</div>
+                    </div>
+                    <div class="step-row">
+                        <div class="step-container" id="1">
+                            <div class="step-ref passed">1</div>
+                            <div class="step-cell passed">* def query_params = {q:'chennai',appid:'db1c48be62bad249d72f5582e80f942e'}</div>
+                        </div>
+                        <div class="time-cell passed">3</div>
+                    </div>
+                    <div class="preformatted" data-parent="1">12:19:27.898 karate.env system property was:</div>
+                    <div class="step-row">
+                        <div class="step-container" id="2">
+                            <div class="step-ref passed">2</div>
+                            <div class="step-cell passed">Given url weather_url</div>
+                        </div>
+                        <div class="time-cell passed">0</div>
+                    </div>
+                    <div class="step-row">
+                        <div class="step-container" id="3">
+                            <div class="step-ref passed">3</div>
+                            <div class="step-cell passed">And path 'data/2.5/weather'</div>
+                        </div>
+                        <div class="time-cell passed">4</div>
+                    </div>
+                    <div class="step-row">
+                        <div class="step-container" id="4">
+                            <div class="step-ref passed">4</div>
+                            <div class="step-cell passed">And params query_params</div>
+                        </div>
+                        <div class="time-cell passed">0</div>
+                    </div>
+                    <div class="step-row">
+                        <div class="step-container" id="5">
+                            <div class="step-ref passed">5</div>
+                            <div class="step-cell passed">When method GET</div>
+                        </div>
+                        <div class="time-cell passed">624</div>
+                    </div>
+                    <div class="preformatted" data-parent="5">12:19:28.136 request:
+1 &gt; GET https://api.openweathermap.org/data/2.5/weather?q=chennai&amp;appid=db1c48be62bad249d72f5582e80f942e
+1 &gt; Accept-Encoding: gzip,deflate
+1 &gt; Connection: Keep-Alive
+1 &gt; Host: api.openweathermap.org
+1 &gt; User-Agent: Apache-HttpClient/4.5.12 (Java/11.0.16)
+
+12:19:28.581 response time in milliseconds: 439.95
+1 &lt; 200
+1 &lt; Access-Control-Allow-Credentials: true
+1 &lt; Access-Control-Allow-Methods: GET, POST
+1 &lt; Access-Control-Allow-Origin: *
+1 &lt; Connection: keep-alive
+1 &lt; Content-Length: 463
+1 &lt; Content-Type: application/json; charset=utf-8
+1 &lt; Date: Thu, 17 Nov 2022 06:49:28 GMT
+1 &lt; Server: openresty
+1 &lt; X-Cache-Key: /data/2.5/weather?q=chennai
+{"coord":{"lon":80.2785,"lat":13.0878},"weather":[{"id":701,"main":"Mist","description":"mist","icon":"50d"}],"base":"stations","main":{"temp":303.14,"feels_like":309.16,"temp_min":303.14,"temp_max":303.14,"pressure":1011,"humidity":74},"visibility":5000,"wind":{"speed":4.12,"deg":360},"clouds":{"all":20},"dt":1668667511,"sys":{"type":1,"id":9218,"country":"IN","sunrise":1668645514,"sunset":1668686955},"timezone":19800,"id":1264527,"name":"Chennai","cod":200}</div>
+                    <div class="step-row">
+                        <div class="step-container" id="6">
+                            <div class="step-ref passed">6</div>
+                            <div class="step-cell passed">Then status 200</div>
+                        </div>
+                        <div class="time-cell passed">0</div>
+                    </div>
+                    <div class="step-row">
+                        <div class="step-container" id="7">
+                            <div class="step-ref passed">7</div>
+                            <div class="step-cell passed">* print response</div>
+                        </div>
+                        <div class="time-cell passed">1</div>
+                    </div>
+                    <div class="preformatted" data-parent="7">12:19:28.585 [print] {
+  "visibility": 5000,
+  "timezone": 19800,
+  "main": {
+    "temp": 303.14,
+    "temp_min": 303.14,
+    "humidity": 74,
+    "pressure": 1011,
+    "feels_like": 309.16,
+    "temp_max": 303.14
+  },
+  "clouds": {
+    "all": 20
+  },
+  "sys": {
+    "country": "IN",
+    "sunrise": 1668645514,
+    "sunset": 1668686955,
+    "id": 9218,
+    "type": 1
+  },
+  "dt": 1668667511,
+  "coord": {
+    "lon": 80.2785,
+    "lat": 13.0878
+  },
+  "weather": [
+    {
+      "icon": "50d",
+      "description": "mist",
+      "main": "Mist",
+      "id": 701
+    }
+  ],
+  "name": "Chennai",
+  "cod": 200,
+  "id": 1264527,
+  "base": "stations",
+  "wind": {
+    "deg": 360,
+    "speed": 4.12
+  }
+}</div>
+                </div>
+            </div>
+                
+        </div>
+           
+  
+    </body>
+    
+</html>

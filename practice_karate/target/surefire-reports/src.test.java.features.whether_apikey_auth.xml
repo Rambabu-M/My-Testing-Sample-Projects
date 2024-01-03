@@ -1,0 +1,11 @@
+<testsuite failures="0" name="src/test/java/features/whether_apikey_auth.feature" skipped="0" tests="1" time="0.632732">
+  <testcase classname="src.test.java.features.whether_apikey_auth" name="using api key auth" time="0.632732">
+    <system-out>* def query_params = {q:'chennai',appid:'db1c48be62bad249d72f5582e80f942e'} . passed
+Given url weather_url ..................................................... passed
+And path 'data/2.5/weather' ............................................... passed
+And params query_params ................................................... passed
+When method GET ........................................................... passed
+Then status 200 ........................................................... passed
+* print response .......................................................... passed</system-out>
+  </testcase>
+</testsuite>

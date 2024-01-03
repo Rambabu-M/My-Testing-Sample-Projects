@@ -1,0 +1,55 @@
+<testsuite failures="0" name="src/test/java/features/all_headers.feature" skipped="0" tests="3" time="2.22574">
+  <testcase classname="src.test.java.features.all_headers" name="Execute one by one header" time="0.652592">
+    <system-out>Given header User-Agent = 'PostmanRuntime/7.29.2' ......................... passed
+And header Accept = '*/*' ................................................. passed
+And header Accept-Encoding = 'gzip, deflate, br' .......................... passed
+And header Connection = 'keep-alive' ...................................... passed
+Given url baseUrl ......................................................... passed
+And path 'public/v2/users/2473' ........................................... passed
+When method GET ........................................................... passed
+Then status 200 ........................................................... passed
+* print response .......................................................... passed</system-out>
+  </testcase>
+  <testcase classname="src.test.java.features.all_headers" name="passing headers in a variable" time="0.21692">
+    <system-out>Given header User-Agent = 'PostmanRuntime/7.29.2' ......................... passed
+And header Accept = '*/*' ................................................. passed
+And header Accept-Encoding = 'gzip, deflate, br' .......................... passed
+And header Connection = 'keep-alive' ...................................... passed
+Given url baseUrl ......................................................... passed
+And path 'public/v2/users/2473' ........................................... passed
+When method GET ........................................................... passed
+Then status 200 ........................................................... passed
+* print response .......................................................... passed
+* def req_header = {User-Agent:'PostmanRuntime/7.29.2',Accept:'*/*',Accept-Encoding:'gzip, deflate, br',Connection:'keep-alive'} . passed
+Given headers req_header .................................................. passed
+When url baseUrl .......................................................... passed
+Then path 'public/v2/users/2473' .......................................... passed
+And method GET ............................................................ passed
+Then status 200 ........................................................... passed
+* print response .......................................................... passed</system-out>
+  </testcase>
+  <testcase classname="src.test.java.features.all_headers" name="passing headers as configure" time="1.356227">
+    <system-out>Given header User-Agent = 'PostmanRuntime/7.29.2' ......................... passed
+And header Accept = '*/*' ................................................. passed
+And header Accept-Encoding = 'gzip, deflate, br' .......................... passed
+And header Connection = 'keep-alive' ...................................... passed
+Given url baseUrl ......................................................... passed
+And path 'public/v2/users/2473' ........................................... passed
+When method GET ........................................................... passed
+Then status 200 ........................................................... passed
+* print response .......................................................... passed
+* def req_header = {User-Agent:'PostmanRuntime/7.29.2',Accept:'*/*',Accept-Encoding:'gzip, deflate, br',Connection:'keep-alive'} . passed
+Given headers req_header .................................................. passed
+When url baseUrl .......................................................... passed
+Then path 'public/v2/users/2473' .......................................... passed
+And method GET ............................................................ passed
+Then status 200 ........................................................... passed
+* print response .......................................................... passed
+* configure headers = {User-Agent:'PostmanRuntime/7.29.2',Accept:'*/*',Accept-Encoding:'gzip, deflate, br',Connection:'keep-alive'} . passed
+Given url baseUrl ......................................................... passed
+And path 'public/v2/users/2473' ........................................... passed
+When method GET ........................................................... passed
+Then status 200 ........................................................... passed
+* print response .......................................................... passed</system-out>
+  </testcase>
+</testsuite>

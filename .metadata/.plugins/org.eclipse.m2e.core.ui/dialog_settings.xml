@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+			<item value="practice.karate"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.netxd"/>
+			<item value="sampletoautomatejarfile"/>
+			<item value="LearnKarateSampleOne"/>
+			<item value="LearnKarate"/>
+			<item value="UpdateKarate"/>
+			<item value="JsonData"/>
+			<item value="com.netxdkarate"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="AutomateJarFile"/>
+			<item value="KarateForAnalytics"/>
+			<item value="LearnKarateSampleOne"/>
+			<item value="LearnKarateSample"/>
+			<item value="MyUpdatedKarate"/>
+			<item value="GenericPayloadCreation"/>
+			<item value="MyNewKarate"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.MavenProjectSelectionDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="450"/>
+		<item key="x" value="775"/>
+		<item key="y" value="233"/>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/home/rambabu/Documents/workspace_eclipse/KarateForAnalytics"/>
+			<item value="/home/rambabu/Documents/workspace_eclipse/MyNewKarate"/>
+			<item value="/home/rambabu/Documents/workspace_eclipse/LearnKarateSample"/>
+			<item value="/home/rambabu/Documents/workspace_eclipse/Json_to_Json_String"/>
+			<item value="/home/rambabu/Documents/workspace_eclipse/ProjectKarate"/>
+			<item value="/home/rambabu/Documents/workspace_eclipse/P_LEDGER_API_KARATE"/>
+			<item value="/home/rambabu/Documents/workspace_eclipse/PLEDGER"/>
+			<item value="/home/rambabu/Documents/workspace_eclipse/P_Ledger"/>
+			<item value="/home/rambabu/Documents/workspace_eclipse/RestAssured"/>
+			<item value="/home/rambabu/Documents/workspace_eclipse"/>
+			<item value="/home/rambabu/Documents/workspace_eclipse/practice_karate"/>
+			<item value="/home/rambabu/Documents/workspace_eclipse/gauthProject"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="489"/>
+		<item key="x" value="20"/>
+		<item key="y" value="20"/>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+</section>

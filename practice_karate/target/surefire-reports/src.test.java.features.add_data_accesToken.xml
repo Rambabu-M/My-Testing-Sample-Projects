@@ -1,0 +1,19 @@
+<testsuite failures="1" name="src/test/java/features/add_data_accesToken.feature" skipped="0" tests="1" time="0.762746">
+  <testcase classname="src.test.java.features.add_data_accesToken" name="post data using Bearer Token" time="0.762746">
+    <failure message="add_data_accesToken.feature:22 - path: $.gender, actual: 'male', expected: 'rahulbhaii', reason: not equal">* url baseUrl ............................................................. passed
+* def req_payload = ....................................................... passed
+Given path 'public/v2/users/' ............................................. passed
+When request req_payload .................................................. passed
+And header Authorization = bearerToken .................................... passed
+When method POST .......................................................... passed
+Then status 201 ........................................................... passed
+* print response .......................................................... passed
+And match $.gender == req_payload.name .................................... failed
+
+Stack Trace:
+com.intuit.karate.exception.KarateException: add_data_accesToken.feature:22 - path: $.gender, actual: 'male', expected: 'rahulbhaii', reason: not equal
+	at ✽.And match $.gender == req_payload.name (add_data_accesToken.feature:22)
+
+And match $.email == req_payload.email .................................... skipped</failure>
+  </testcase>
+</testsuite>

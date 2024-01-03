@@ -1,0 +1,21 @@
+18:24:22.540 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+18:24:23.236 [main] INFO  com.intuit.karate - karate.env system property was: null 
+18:24:23.275 [main] ERROR com.intuit.karate - classpath:examples/users/users.feature:4
+Given url https://reqres.in
+js failed:
+>>>>
+01: https://reqres.in
+<<<<
+org.graalvm.polyglot.PolyglotException: SyntaxError: Unnamed:1:17 Expected ; but found eof
+https://reqres.in
+                 ^
+
+- org.graalvm.polyglot.Context.eval(Context.java:425)
+- com.intuit.karate.graal.JsEngine.evalForValue(JsEngine.java:169)
+- com.intuit.karate.graal.JsEngine.eval(JsEngine.java:165)
+- com.intuit.karate.core.ScenarioEngine.evalJs(ScenarioEngine.java:1286)
+- com.intuit.karate.core.ScenarioEngine.evalKarateExpression(ScenarioEngine.java:2238)
+- com.intuit.karate.core.ScenarioEngine.evalKarateExpression(ScenarioEngine.java:2157)
+- com.intuit.karate.core.ScenarioEngine.url(ScenarioEngine.java:379)
+
+classpath:examples/users/users.feature:4

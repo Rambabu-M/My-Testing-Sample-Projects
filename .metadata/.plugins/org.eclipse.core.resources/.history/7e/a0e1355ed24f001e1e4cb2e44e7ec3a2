@@ -1,0 +1,171 @@
+package adminApiPackage;
+
+import java.io.IOException;
+import org.json.JSONObject;
+import org.testng.annotations.DataProvider;
+import org.testng.annotations.Listeners;
+import org.testng.annotations.Test;
+import io.restassured.RestAssured;
+import io.restassured.response.Response;
+import signaturePackage.basicAuthUtils;
+import signaturePackage.credentialReader;
+import static org.hamcrest.Matchers.equalTo;
+
+@Listeners(org.testng.reporters.EmailableReporter.class)
+public class addBusiness {
+	
+	@DataProvider(name = "invalidMethodNames")
+    public Object[][] invalidMethodNames() {
+        return new Object[][] {
+            {"", "Empty method"},
+            {"   CustomerService.AddCustomer", "Leading space in the method"},
+            {"CustomerService.AddCustomer  ", "Trailing space in the method"},
+            {"@!#fkvjfkfjv", "Alphanumeric in the method"},
+            {"   ", "Whitwspace in the method"}
+        };
+	}
+	
+	@DataProvider(name = "invalidDobrest")
+    public Object[][] invalidDobrest() {
+        return new Object[][] {
+            {"1990-11-07", "Dobrest with hyphen in between"},
+            {"22121207", "Format as ddmmyyyy"},
+            {"", "Empty dobrest"},
+            {"@!#fkvjfkfjv", "Alphanumeric in the dobrest"},
+            {"   ", "Whitespace in the dobrest"}
+        };
+	}
+
+
+	/*@Test(enabled = false)
+	public void invalidDateEstablishedValue() throws IOException {
+        
+		// below code reads the username and password from the property file
+        credentialReader propertyReader = credentialReader.getInstance();
+        
+        //below code creates the auth string based on the admin username & password the we need to pass in the headers as Authorization
+        basicAuthUtils authUtils = basicAuthUtils.getInstance();
+        String authorizationString = authUtils.createBasicAuthHeader(propertyReader.getUsername(), propertyReader.getPassword());
+        
+        
+        //below line reads the path of the api request file not the api body
+        String myJsonFilePath = "src/test/resources/createBusinessCustomer.json";
+       
+       //below code reads the Json content from the path and stores it in a STRING variable
+        String jsonContent = authUtils.readJsonFile(myJsonFilePath);
+        
+       //below code convert the STRING format json into Json Object so that we can manipulate the json values
+        JSONObject reqBody = new JSONObject(jsonContent);
+        
+        //converting the payload object alone from the json object into string and passes for signature generation
+        String signatureValue = authUtils.sign((reqBody.getJSONObject("params").getJSONObject("payload")).toString(),propertyReader.getPrivateKey());
+        
+        //passes the generated signature into the requestbody[json object]
+        reqBody.getJSONObject("params").getJSONObject("api").put("signature", signatureValue);
+        
+       // now we are ready with request body as a json object need to convert this into string and hit the api
+        
+        Response response =  RestAssured
+		.given().baseUri("https://connectors.cbwpayments.com/PLMASTER")
+		.header("Authorization",authorizationString)
+		.header("Content-Type","application/json")
+		.body(reqBody.toString())
+		//.log()
+		//.all()
+		.when()
+		.post("/jsonrpc");
+        
+        // below code is to print the response messgae to the console
+       // response.then()
+       // .log().all();
+        
+        response.then()
+        .assertThat()
+        .statusCode(200) // Assert the expected status code (e.g., 400 Bad Request)
+        .body("error.code", equalTo("BAD_INPUT")) // Assert the error code
+        .body("error.message", equalTo("DateEstablished is invalid or missing")); // Assert the error message
+	}*/
+	
+	
+	@Test(enabled = false,dataProvider = "invalidMethodNames")
+	public void methodTestCases(String methodValues, String description) throws IOException {
+        
+           credentialReader propertyReader = credentialReader.getInstance();
+           basicAuthUtils authUtils = basicAuthUtils.getInstance();
+    
+        String myJsonFilePath = "src/test/resources/createBusinessCustomer.json";
+        String jsonContent = authUtils.readJsonFile(myJsonFilePath);
+        JSONObject reqBody = new JSONObject(jsonContent);
+        
+        reqBody.put("method", methodValues);
+        
+        String signatureValue = authUtils.sign((reqBody.getJSONObject("params").getJSONObject("payload")).toString(),propertyReader.getPrivateKey());
+        
+        //passes the generated signature into the requestbody[json object]
+        reqBody.getJSONObject("params").getJSONObject("api").put("signature", signatureValue);
+        
+        
+       // now we are ready with request body as a json object need to convert this into string and hit the api
+        
+        Response response =  RestAssured
+		.given().baseUri("https://connectors.cbwpayments.com/PLMASTER")
+		//.header("Authorization",authorizationString)
+		.header("Content-Type","application/json")
+		.body(reqBody.toString())
+		.log()
+		.all()
+		.when()
+		.post("/jsonrpc");
+        
+        // below code is to print the response messgae to the console
+      // response.then()
+       // .log().all();
+        
+        response.then()
+        .assertThat()
+        .statusCode(200) // Assert the expected status code (e.g., 400 Bad Request)
+        .body("error.code", equalTo("UNAUTHORIZED")) // Assert the error code
+        .body("error.message", equalTo("Access Denied")); // Assert the error message 
+	}
+	
+	@Test(priority=2,dataProvider = "invalidDobrest")
+	public void bodorestTestCases(String doborestValues, String description) throws IOException {
+        
+           credentialReader propertyReader = credentialReader.getInstance();
+           basicAuthUtils authUtils = basicAuthUtils.getInstance();
+    
+        String myJsonFilePath = "src/test/resources/createBusinessCustomer.json";
+        String jsonContent = authUtils.readJsonFile(myJsonFilePath);
+        JSONObject reqBody = new JSONObject(jsonContent);
+        
+        reqBody.getJSONObject("params").getJSONObject("payload").put("dateestablished", doborestValues);
+        
+        String signatureValue = authUtils.sign((reqBody.getJSONObject("params").getJSONObject("payload")).toString(),propertyReader.getPrivateKey());
+        
+        //passes the generated signature into the requestbody[json object]
+        reqBody.getJSONObject("params").getJSONObject("api").put("signature", signatureValue);
+        
+        
+       // now we are ready with request body as a json object need to convert this into string and hit the api
+        
+        Response response =  RestAssured
+		.given().baseUri("https://connectors.cbwpayments.com/PLMASTER")
+		//.header("Authorization",authorizationString)
+		.header("Content-Type","application/json")
+		.body(reqBody.toString())
+		//.log()
+		//.all()
+		.when()
+		.post("/jsonrpc");
+        
+      // below code is to print the response messgae to the console
+       //response.then()
+       //.log().all();
+        
+        response.then()
+        .assertThat()
+        .statusCode(200) // Assert the expected status code (e.g., 400 Bad Request)
+        .body("error.code", equalTo("BAD_INPUT")) // Assert the error code
+        .body("error.message", equalTo("DateEstablished is invalid or missing")); // Assert the error message 
+	}
+}

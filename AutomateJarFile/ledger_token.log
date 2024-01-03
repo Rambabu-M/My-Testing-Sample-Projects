@@ -1,0 +1,856 @@
+20-11-2023 19:30:54 INFO  VerificationClient:273 - Welcome To CBW Token
+20-11-2023 19:30:54 INFO  LProperties:20 - init >>
+20-11-2023 19:30:54 INFO  LProperties:52 - init <<
+20-11-2023 19:30:54 INFO  VerificationClient:290 - name: Latham
+20-11-2023 19:30:54 INFO  LProxy:40 - load proxy >>
+20-11-2023 19:30:54 INFO  LProxy:46 - proxyType: 0
+20-11-2023 19:30:54 INFO  VerificationClient:297 - bgColorStr:1579311
+20-11-2023 19:30:54 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+20-11-2023 19:30:54 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+20-11-2023 19:30:54 INFO  VerificationClient:317 - ::
+20-11-2023 19:30:54 INFO  VerificationClient:2005 - Created necessary Folders
+20-11-2023 19:30:54 INFO  VerificationClient:378 - Starting Client
+20-11-2023 19:36:30 INFO  VerificationClient:273 - Welcome To CBW Token
+20-11-2023 19:36:30 INFO  LProperties:20 - init >>
+20-11-2023 19:36:30 INFO  LProperties:52 - init <<
+20-11-2023 19:36:30 INFO  VerificationClient:290 - name: Latham
+20-11-2023 19:36:30 INFO  LProxy:40 - load proxy >>
+20-11-2023 19:36:30 INFO  LProxy:46 - proxyType: 0
+20-11-2023 19:36:30 INFO  VerificationClient:297 - bgColorStr:1579311
+20-11-2023 19:36:30 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+20-11-2023 19:36:30 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+20-11-2023 19:36:30 INFO  VerificationClient:317 - ::
+20-11-2023 19:36:30 INFO  VerificationClient:2005 - Created necessary Folders
+20-11-2023 19:36:30 INFO  VerificationClient:378 - Starting Client
+20-11-2023 19:43:12 INFO  VerificationClient:273 - Welcome To CBW Token
+20-11-2023 19:43:12 INFO  LProperties:20 - init >>
+20-11-2023 19:43:12 INFO  LProperties:52 - init <<
+20-11-2023 19:43:12 INFO  VerificationClient:290 - name: Latham
+20-11-2023 19:43:12 INFO  LProxy:40 - load proxy >>
+20-11-2023 19:43:12 INFO  LProxy:46 - proxyType: 0
+20-11-2023 19:43:12 INFO  VerificationClient:297 - bgColorStr:1579311
+20-11-2023 19:43:12 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+20-11-2023 19:43:12 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+20-11-2023 19:43:12 INFO  VerificationClient:317 - ::
+20-11-2023 19:43:12 INFO  VerificationClient:2005 - Created necessary Folders
+20-11-2023 19:43:12 INFO  VerificationClient:378 - Starting Client
+20-11-2023 19:46:07 INFO  VerificationClient:273 - Welcome To CBW Token
+20-11-2023 19:46:07 INFO  LProperties:20 - init >>
+20-11-2023 19:46:07 INFO  LProperties:52 - init <<
+20-11-2023 19:46:07 INFO  VerificationClient:290 - name: Latham
+20-11-2023 19:46:07 INFO  LProxy:40 - load proxy >>
+20-11-2023 19:46:07 INFO  LProxy:46 - proxyType: 0
+20-11-2023 19:46:07 INFO  VerificationClient:297 - bgColorStr:1579311
+20-11-2023 19:46:07 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+20-11-2023 19:46:07 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+20-11-2023 19:46:07 INFO  VerificationClient:317 - ::
+20-11-2023 19:46:07 INFO  VerificationClient:2005 - Created necessary Folders
+20-11-2023 19:46:07 INFO  VerificationClient:378 - Starting Client
+20-11-2023 19:47:12 INFO  VerificationClient:273 - Welcome To CBW Token
+20-11-2023 19:47:12 INFO  LProperties:20 - init >>
+20-11-2023 19:47:12 INFO  LProperties:52 - init <<
+20-11-2023 19:47:12 INFO  VerificationClient:290 - name: Latham
+20-11-2023 19:47:12 INFO  LProxy:40 - load proxy >>
+20-11-2023 19:47:12 INFO  LProxy:46 - proxyType: 0
+20-11-2023 19:47:12 INFO  VerificationClient:297 - bgColorStr:1579311
+20-11-2023 19:47:12 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+20-11-2023 19:47:12 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+20-11-2023 19:47:12 INFO  VerificationClient:317 - ::
+20-11-2023 19:47:12 INFO  VerificationClient:2005 - Created necessary Folders
+20-11-2023 19:47:12 INFO  VerificationClient:378 - Starting Client
+20-11-2023 19:47:46 INFO  VerificationClient:273 - Welcome To CBW Token
+20-11-2023 19:47:46 INFO  LProperties:20 - init >>
+20-11-2023 19:47:46 INFO  LProperties:52 - init <<
+20-11-2023 19:47:46 INFO  VerificationClient:290 - name: Latham
+20-11-2023 19:47:46 INFO  LProxy:40 - load proxy >>
+20-11-2023 19:47:46 INFO  LProxy:46 - proxyType: 0
+20-11-2023 19:47:46 INFO  VerificationClient:297 - bgColorStr:1579311
+20-11-2023 19:47:46 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+20-11-2023 19:47:46 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+20-11-2023 19:47:46 INFO  VerificationClient:317 - ::
+20-11-2023 19:47:46 INFO  VerificationClient:2005 - Created necessary Folders
+20-11-2023 19:47:46 INFO  VerificationClient:378 - Starting Client
+20-11-2023 19:48:45 INFO  VerificationClient:273 - Welcome To CBW Token
+20-11-2023 19:48:45 INFO  LProperties:20 - init >>
+20-11-2023 19:48:45 INFO  LProperties:52 - init <<
+20-11-2023 19:48:45 INFO  VerificationClient:290 - name: Latham
+20-11-2023 19:48:45 INFO  LProxy:40 - load proxy >>
+20-11-2023 19:48:45 INFO  LProxy:46 - proxyType: 0
+20-11-2023 19:48:45 INFO  VerificationClient:297 - bgColorStr:1579311
+20-11-2023 19:48:45 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+20-11-2023 19:48:45 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+20-11-2023 19:48:45 INFO  VerificationClient:317 - ::
+20-11-2023 19:48:45 INFO  VerificationClient:2005 - Created necessary Folders
+20-11-2023 19:48:45 INFO  VerificationClient:378 - Starting Client
+20-11-2023 19:49:51 INFO  VerificationClient:273 - Welcome To CBW Token
+20-11-2023 19:49:51 INFO  LProperties:20 - init >>
+20-11-2023 19:49:51 INFO  LProperties:52 - init <<
+20-11-2023 19:49:51 INFO  VerificationClient:290 - name: Latham
+20-11-2023 19:49:51 INFO  LProxy:40 - load proxy >>
+20-11-2023 19:49:51 INFO  LProxy:46 - proxyType: 0
+20-11-2023 19:49:51 INFO  VerificationClient:297 - bgColorStr:1579311
+20-11-2023 19:49:51 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+20-11-2023 19:49:51 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+20-11-2023 19:49:51 INFO  VerificationClient:317 - ::
+20-11-2023 19:49:51 INFO  VerificationClient:2005 - Created necessary Folders
+20-11-2023 19:49:51 INFO  VerificationClient:378 - Starting Client
+20-11-2023 19:57:05 INFO  VerificationClient:273 - Welcome To CBW Token
+20-11-2023 19:57:05 INFO  LProperties:20 - init >>
+20-11-2023 19:57:05 INFO  LProperties:52 - init <<
+20-11-2023 19:57:05 INFO  VerificationClient:290 - name: Latham
+20-11-2023 19:57:05 INFO  LProxy:40 - load proxy >>
+20-11-2023 19:57:05 INFO  LProxy:46 - proxyType: 0
+20-11-2023 19:57:05 INFO  VerificationClient:297 - bgColorStr:1579311
+20-11-2023 19:57:05 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+20-11-2023 19:57:05 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+20-11-2023 19:57:05 INFO  VerificationClient:317 - ::
+20-11-2023 19:57:05 INFO  VerificationClient:2005 - Created necessary Folders
+20-11-2023 19:57:05 INFO  VerificationClient:378 - Starting Client
+20-11-2023 19:57:45 INFO  VerificationClient:273 - Welcome To CBW Token
+20-11-2023 19:57:45 INFO  LProperties:20 - init >>
+20-11-2023 19:57:45 INFO  LProperties:52 - init <<
+20-11-2023 19:57:45 INFO  VerificationClient:290 - name: Latham
+20-11-2023 19:57:45 INFO  LProxy:40 - load proxy >>
+20-11-2023 19:57:45 INFO  LProxy:46 - proxyType: 0
+20-11-2023 19:57:45 INFO  VerificationClient:297 - bgColorStr:1579311
+20-11-2023 19:57:45 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+20-11-2023 19:57:45 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+20-11-2023 19:57:45 INFO  VerificationClient:317 - ::
+20-11-2023 19:57:45 INFO  VerificationClient:2005 - Created necessary Folders
+20-11-2023 19:57:45 INFO  VerificationClient:378 - Starting Client
+20-11-2023 19:57:53 INFO  VerificationClient:472 - Pin Verified
+20-11-2023 19:57:53 INFO  VerificationClient:473 - workFlow: null
+20-11-2023 19:57:53 INFO  VerificationClient:505 - pwd: 1234
+20-11-2023 19:57:53 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+20-11-2023 19:57:53 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+20-11-2023 19:57:53 INFO  VerificationClient:522 - 522
+20-11-2023 19:57:53 INFO  VerificationClient:1409 - Using Proxy false
+20-11-2023 20:06:58 INFO  VerificationClient:273 - Welcome To CBW Token
+20-11-2023 20:06:58 INFO  LProperties:20 - init >>
+20-11-2023 20:06:58 INFO  LProperties:52 - init <<
+20-11-2023 20:06:58 INFO  VerificationClient:290 - name: Latham
+20-11-2023 20:06:58 INFO  LProxy:40 - load proxy >>
+20-11-2023 20:06:58 INFO  LProxy:46 - proxyType: 0
+20-11-2023 20:06:58 INFO  VerificationClient:297 - bgColorStr:1579311
+20-11-2023 20:06:58 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+20-11-2023 20:06:58 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+20-11-2023 20:06:58 INFO  VerificationClient:317 - ::
+20-11-2023 20:06:58 INFO  VerificationClient:2005 - Created necessary Folders
+20-11-2023 20:06:58 INFO  VerificationClient:378 - Starting Client
+20-11-2023 20:07:44 INFO  VerificationClient:472 - Pin Verified
+20-11-2023 20:07:44 INFO  VerificationClient:473 - workFlow: null
+20-11-2023 20:07:44 INFO  VerificationClient:505 - pwd: 1234
+20-11-2023 20:07:44 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+20-11-2023 20:07:44 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+20-11-2023 20:07:44 INFO  VerificationClient:522 - 522
+20-11-2023 20:07:44 INFO  VerificationClient:1409 - Using Proxy false
+20-11-2023 20:08:22 INFO  VerificationClient:273 - Welcome To CBW Token
+20-11-2023 20:08:22 INFO  LProperties:20 - init >>
+20-11-2023 20:08:22 INFO  LProperties:52 - init <<
+20-11-2023 20:08:22 INFO  VerificationClient:290 - name: Latham
+20-11-2023 20:08:22 INFO  LProxy:40 - load proxy >>
+20-11-2023 20:08:22 INFO  LProxy:46 - proxyType: 0
+20-11-2023 20:08:22 INFO  VerificationClient:297 - bgColorStr:1579311
+20-11-2023 20:08:22 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+20-11-2023 20:08:22 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+20-11-2023 20:08:22 INFO  VerificationClient:317 - ::
+20-11-2023 20:08:22 INFO  VerificationClient:2005 - Created necessary Folders
+20-11-2023 20:08:22 INFO  VerificationClient:378 - Starting Client
+20-11-2023 20:10:26 INFO  VerificationClient:273 - Welcome To CBW Token
+20-11-2023 20:10:26 INFO  LProperties:20 - init >>
+20-11-2023 20:10:26 INFO  LProperties:52 - init <<
+20-11-2023 20:10:26 INFO  VerificationClient:290 - name: Latham
+20-11-2023 20:10:26 INFO  LProxy:40 - load proxy >>
+20-11-2023 20:10:26 INFO  LProxy:46 - proxyType: 0
+20-11-2023 20:10:26 INFO  VerificationClient:297 - bgColorStr:1579311
+20-11-2023 20:10:26 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+20-11-2023 20:10:26 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+20-11-2023 20:10:26 INFO  VerificationClient:317 - ::
+20-11-2023 20:10:26 INFO  VerificationClient:2005 - Created necessary Folders
+20-11-2023 20:10:26 INFO  VerificationClient:378 - Starting Client
+20-11-2023 20:26:15 INFO  VerificationClient:273 - Welcome To CBW Token
+20-11-2023 20:26:15 INFO  LProperties:20 - init >>
+20-11-2023 20:26:15 INFO  LProperties:52 - init <<
+20-11-2023 20:26:15 INFO  VerificationClient:290 - name: Latham
+20-11-2023 20:26:15 INFO  LProxy:40 - load proxy >>
+20-11-2023 20:26:15 INFO  LProxy:46 - proxyType: 0
+20-11-2023 20:26:15 INFO  VerificationClient:297 - bgColorStr:1579311
+20-11-2023 20:26:15 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+20-11-2023 20:26:15 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+20-11-2023 20:26:15 INFO  VerificationClient:317 - ::
+20-11-2023 20:26:15 INFO  VerificationClient:2005 - Created necessary Folders
+20-11-2023 20:26:15 INFO  VerificationClient:378 - Starting Client
+20-11-2023 20:30:11 INFO  VerificationClient:273 - Welcome To CBW Token
+20-11-2023 20:30:11 INFO  LProperties:20 - init >>
+20-11-2023 20:30:11 INFO  LProperties:52 - init <<
+20-11-2023 20:30:11 INFO  VerificationClient:290 - name: Latham
+20-11-2023 20:30:11 INFO  LProxy:40 - load proxy >>
+20-11-2023 20:30:11 INFO  LProxy:46 - proxyType: 0
+20-11-2023 20:30:11 INFO  VerificationClient:297 - bgColorStr:1579311
+20-11-2023 20:30:11 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+20-11-2023 20:30:11 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+20-11-2023 20:30:11 INFO  VerificationClient:317 - ::
+20-11-2023 20:30:11 INFO  VerificationClient:2005 - Created necessary Folders
+20-11-2023 20:30:11 INFO  VerificationClient:378 - Starting Client
+21-11-2023 14:28:20 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 14:28:20 INFO  LProperties:20 - init >>
+21-11-2023 14:28:20 INFO  LProperties:52 - init <<
+21-11-2023 14:28:20 INFO  VerificationClient:290 - name: Latham
+21-11-2023 14:28:20 INFO  LProxy:40 - load proxy >>
+21-11-2023 14:28:20 INFO  LProxy:46 - proxyType: 0
+21-11-2023 14:28:20 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 14:28:20 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 14:28:20 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 14:28:20 INFO  VerificationClient:317 - ::
+21-11-2023 14:28:20 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 14:28:20 INFO  VerificationClient:378 - Starting Client
+21-11-2023 14:29:14 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 14:29:14 INFO  LProperties:20 - init >>
+21-11-2023 14:29:14 INFO  LProperties:52 - init <<
+21-11-2023 14:29:14 INFO  VerificationClient:290 - name: Latham
+21-11-2023 14:29:14 INFO  LProxy:40 - load proxy >>
+21-11-2023 14:29:14 INFO  LProxy:46 - proxyType: 0
+21-11-2023 14:29:14 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 14:29:14 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 14:29:14 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 14:29:14 INFO  VerificationClient:317 - ::
+21-11-2023 14:29:14 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 14:29:14 INFO  VerificationClient:378 - Starting Client
+21-11-2023 14:31:51 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 14:31:51 INFO  LProperties:20 - init >>
+21-11-2023 14:31:51 INFO  LProperties:52 - init <<
+21-11-2023 14:31:51 INFO  VerificationClient:290 - name: Latham
+21-11-2023 14:31:51 INFO  LProxy:40 - load proxy >>
+21-11-2023 14:31:51 INFO  LProxy:46 - proxyType: 0
+21-11-2023 14:31:51 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 14:31:51 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 14:31:51 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 14:31:51 INFO  VerificationClient:317 - ::
+21-11-2023 14:31:51 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 14:31:51 INFO  VerificationClient:378 - Starting Client
+21-11-2023 14:33:23 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 14:33:23 INFO  LProperties:20 - init >>
+21-11-2023 14:33:23 INFO  LProperties:52 - init <<
+21-11-2023 14:33:23 INFO  VerificationClient:290 - name: Latham
+21-11-2023 14:33:23 INFO  LProxy:40 - load proxy >>
+21-11-2023 14:33:23 INFO  LProxy:46 - proxyType: 0
+21-11-2023 14:33:23 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 14:33:23 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 14:33:23 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 14:33:23 INFO  VerificationClient:317 - ::
+21-11-2023 14:33:23 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 14:33:24 INFO  VerificationClient:378 - Starting Client
+21-11-2023 14:34:13 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 14:34:13 INFO  LProperties:20 - init >>
+21-11-2023 14:34:13 INFO  LProperties:52 - init <<
+21-11-2023 14:34:13 INFO  VerificationClient:290 - name: Latham
+21-11-2023 14:34:13 INFO  LProxy:40 - load proxy >>
+21-11-2023 14:34:13 INFO  LProxy:46 - proxyType: 0
+21-11-2023 14:34:13 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 14:34:13 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 14:34:13 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 14:34:13 INFO  VerificationClient:317 - ::
+21-11-2023 14:34:13 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 14:34:13 INFO  VerificationClient:378 - Starting Client
+21-11-2023 15:07:11 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 15:07:11 INFO  LProperties:20 - init >>
+21-11-2023 15:07:11 INFO  LProperties:52 - init <<
+21-11-2023 15:07:11 INFO  VerificationClient:290 - name: Latham
+21-11-2023 15:07:11 INFO  LProxy:40 - load proxy >>
+21-11-2023 15:07:11 INFO  LProxy:46 - proxyType: 0
+21-11-2023 15:07:11 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 15:07:11 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 15:07:11 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 15:07:11 INFO  VerificationClient:317 - ::
+21-11-2023 15:07:11 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 15:07:11 INFO  VerificationClient:378 - Starting Client
+21-11-2023 15:11:39 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 15:11:39 INFO  LProperties:20 - init >>
+21-11-2023 15:11:39 INFO  LProperties:52 - init <<
+21-11-2023 15:11:39 INFO  VerificationClient:290 - name: Latham
+21-11-2023 15:11:39 INFO  LProxy:40 - load proxy >>
+21-11-2023 15:11:39 INFO  LProxy:46 - proxyType: 0
+21-11-2023 15:11:39 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 15:11:39 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 15:11:39 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 15:11:39 INFO  VerificationClient:317 - ::
+21-11-2023 15:11:39 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 15:11:39 INFO  VerificationClient:378 - Starting Client
+21-11-2023 15:18:29 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 15:18:29 INFO  LProperties:20 - init >>
+21-11-2023 15:18:29 INFO  LProperties:52 - init <<
+21-11-2023 15:18:29 INFO  VerificationClient:290 - name: Latham
+21-11-2023 15:18:29 INFO  LProxy:40 - load proxy >>
+21-11-2023 15:18:29 INFO  LProxy:46 - proxyType: 0
+21-11-2023 15:18:29 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 15:18:29 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 15:18:29 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 15:18:29 INFO  VerificationClient:317 - ::
+21-11-2023 15:18:29 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 15:18:29 INFO  VerificationClient:378 - Starting Client
+21-11-2023 15:28:27 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 15:28:27 INFO  LProperties:20 - init >>
+21-11-2023 15:28:27 INFO  LProperties:52 - init <<
+21-11-2023 15:28:27 INFO  VerificationClient:290 - name: Latham
+21-11-2023 15:28:27 INFO  LProxy:40 - load proxy >>
+21-11-2023 15:28:27 INFO  LProxy:46 - proxyType: 0
+21-11-2023 15:28:27 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 15:28:27 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 15:28:27 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 15:28:27 INFO  VerificationClient:317 - ::
+21-11-2023 15:28:27 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 15:28:27 INFO  VerificationClient:378 - Starting Client
+21-11-2023 15:32:57 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 15:32:57 INFO  LProperties:20 - init >>
+21-11-2023 15:32:57 INFO  LProperties:52 - init <<
+21-11-2023 15:32:57 INFO  VerificationClient:290 - name: Latham
+21-11-2023 15:32:57 INFO  LProxy:40 - load proxy >>
+21-11-2023 15:32:57 INFO  LProxy:46 - proxyType: 0
+21-11-2023 15:32:57 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 15:32:57 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 15:32:57 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 15:32:57 INFO  VerificationClient:317 - ::
+21-11-2023 15:32:57 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 15:32:57 INFO  VerificationClient:378 - Starting Client
+21-11-2023 15:35:21 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 15:35:21 INFO  LProperties:20 - init >>
+21-11-2023 15:35:21 INFO  LProperties:52 - init <<
+21-11-2023 15:35:21 INFO  VerificationClient:290 - name: Latham
+21-11-2023 15:35:21 INFO  LProxy:40 - load proxy >>
+21-11-2023 15:35:21 INFO  LProxy:46 - proxyType: 0
+21-11-2023 15:35:21 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 15:35:21 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 15:35:21 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 15:35:21 INFO  VerificationClient:317 - ::
+21-11-2023 15:35:21 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 15:35:21 INFO  VerificationClient:378 - Starting Client
+21-11-2023 15:39:36 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 15:39:36 INFO  LProperties:20 - init >>
+21-11-2023 15:39:36 INFO  LProperties:52 - init <<
+21-11-2023 15:39:36 INFO  VerificationClient:290 - name: Latham
+21-11-2023 15:39:36 INFO  LProxy:40 - load proxy >>
+21-11-2023 15:39:36 INFO  LProxy:46 - proxyType: 0
+21-11-2023 15:39:36 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 15:39:36 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 15:39:36 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 15:39:36 INFO  VerificationClient:317 - ::
+21-11-2023 15:39:36 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 15:39:36 INFO  VerificationClient:378 - Starting Client
+21-11-2023 15:41:49 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 15:41:49 INFO  LProperties:20 - init >>
+21-11-2023 15:41:49 INFO  LProperties:52 - init <<
+21-11-2023 15:41:49 INFO  VerificationClient:290 - name: Latham
+21-11-2023 15:41:49 INFO  LProxy:40 - load proxy >>
+21-11-2023 15:41:49 INFO  LProxy:46 - proxyType: 0
+21-11-2023 15:41:49 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 15:41:49 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 15:41:49 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 15:41:49 INFO  VerificationClient:317 - ::
+21-11-2023 15:41:50 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 15:41:50 INFO  VerificationClient:378 - Starting Client
+21-11-2023 15:43:35 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 15:43:35 INFO  LProperties:20 - init >>
+21-11-2023 15:43:35 INFO  LProperties:52 - init <<
+21-11-2023 15:43:35 INFO  VerificationClient:290 - name: Latham
+21-11-2023 15:43:35 INFO  LProxy:40 - load proxy >>
+21-11-2023 15:43:35 INFO  LProxy:46 - proxyType: 0
+21-11-2023 15:43:35 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 15:43:35 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 15:43:35 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 15:43:35 INFO  VerificationClient:317 - ::
+21-11-2023 15:43:35 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 15:43:35 INFO  VerificationClient:378 - Starting Client
+21-11-2023 15:44:52 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 15:44:52 INFO  LProperties:20 - init >>
+21-11-2023 15:44:52 INFO  LProperties:52 - init <<
+21-11-2023 15:44:52 INFO  VerificationClient:290 - name: Latham
+21-11-2023 15:44:52 INFO  LProxy:40 - load proxy >>
+21-11-2023 15:44:52 INFO  LProxy:46 - proxyType: 0
+21-11-2023 15:44:52 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 15:44:52 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 15:44:52 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 15:44:52 INFO  VerificationClient:317 - ::
+21-11-2023 15:44:52 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 15:44:52 INFO  VerificationClient:378 - Starting Client
+21-11-2023 15:48:32 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 15:48:32 INFO  LProperties:20 - init >>
+21-11-2023 15:48:32 INFO  LProperties:52 - init <<
+21-11-2023 15:48:32 INFO  VerificationClient:290 - name: Latham
+21-11-2023 15:48:32 INFO  LProxy:40 - load proxy >>
+21-11-2023 15:48:32 INFO  LProxy:46 - proxyType: 0
+21-11-2023 15:48:32 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 15:48:32 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 15:48:32 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 15:48:32 INFO  VerificationClient:317 - ::
+21-11-2023 15:48:32 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 15:48:32 INFO  VerificationClient:378 - Starting Client
+21-11-2023 16:08:19 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 16:08:19 INFO  LProperties:20 - init >>
+21-11-2023 16:08:19 INFO  LProperties:52 - init <<
+21-11-2023 16:08:19 INFO  VerificationClient:290 - name: Latham
+21-11-2023 16:08:19 INFO  LProxy:40 - load proxy >>
+21-11-2023 16:08:19 INFO  LProxy:46 - proxyType: 0
+21-11-2023 16:08:19 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 16:08:19 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 16:08:19 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 16:08:19 INFO  VerificationClient:317 - ::
+21-11-2023 16:08:19 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 16:08:19 INFO  VerificationClient:378 - Starting Client
+21-11-2023 16:09:48 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 16:09:48 INFO  LProperties:20 - init >>
+21-11-2023 16:09:48 INFO  LProperties:52 - init <<
+21-11-2023 16:09:48 INFO  VerificationClient:290 - name: Latham
+21-11-2023 16:09:48 INFO  LProxy:40 - load proxy >>
+21-11-2023 16:09:48 INFO  LProxy:46 - proxyType: 0
+21-11-2023 16:09:48 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 16:09:48 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 16:09:48 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 16:09:48 INFO  VerificationClient:317 - ::
+21-11-2023 16:09:48 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 16:09:48 INFO  VerificationClient:378 - Starting Client
+21-11-2023 16:09:52 INFO  VerificationClient:472 - Pin Verified
+21-11-2023 16:09:52 INFO  VerificationClient:473 - workFlow: null
+21-11-2023 16:09:52 INFO  VerificationClient:505 - pwd: 1234
+21-11-2023 16:09:52 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+21-11-2023 16:09:52 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+21-11-2023 16:09:52 INFO  VerificationClient:522 - 522
+21-11-2023 16:09:52 INFO  VerificationClient:1409 - Using Proxy false
+21-11-2023 16:12:14 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 16:12:14 INFO  LProperties:20 - init >>
+21-11-2023 16:12:14 INFO  LProperties:52 - init <<
+21-11-2023 16:12:14 INFO  VerificationClient:290 - name: Latham
+21-11-2023 16:12:14 INFO  LProxy:40 - load proxy >>
+21-11-2023 16:12:14 INFO  LProxy:46 - proxyType: 0
+21-11-2023 16:12:14 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 16:12:14 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 16:12:14 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 16:12:14 INFO  VerificationClient:317 - ::
+21-11-2023 16:12:14 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 16:12:14 INFO  VerificationClient:378 - Starting Client
+21-11-2023 16:12:16 INFO  VerificationClient:472 - Pin Verified
+21-11-2023 16:12:16 INFO  VerificationClient:473 - workFlow: null
+21-11-2023 16:12:16 INFO  VerificationClient:505 - pwd: 1234
+21-11-2023 16:12:16 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+21-11-2023 16:12:16 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+21-11-2023 16:12:16 INFO  VerificationClient:522 - 522
+21-11-2023 16:12:16 INFO  VerificationClient:1409 - Using Proxy false
+21-11-2023 16:13:43 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 16:13:43 INFO  LProperties:20 - init >>
+21-11-2023 16:13:43 INFO  LProperties:52 - init <<
+21-11-2023 16:13:43 INFO  VerificationClient:290 - name: Latham
+21-11-2023 16:13:43 INFO  LProxy:40 - load proxy >>
+21-11-2023 16:13:43 INFO  LProxy:46 - proxyType: 0
+21-11-2023 16:13:43 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 16:13:43 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 16:13:43 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 16:13:43 INFO  VerificationClient:317 - ::
+21-11-2023 16:13:43 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 16:13:43 INFO  VerificationClient:378 - Starting Client
+21-11-2023 16:13:46 INFO  VerificationClient:472 - Pin Verified
+21-11-2023 16:13:46 INFO  VerificationClient:473 - workFlow: null
+21-11-2023 16:13:46 INFO  VerificationClient:505 - pwd: 1234
+21-11-2023 16:13:46 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+21-11-2023 16:13:46 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+21-11-2023 16:13:46 INFO  VerificationClient:522 - 522
+21-11-2023 16:13:46 INFO  VerificationClient:1409 - Using Proxy false
+21-11-2023 16:20:36 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 16:20:36 INFO  LProperties:20 - init >>
+21-11-2023 16:20:36 INFO  LProperties:52 - init <<
+21-11-2023 16:20:36 INFO  VerificationClient:290 - name: Latham
+21-11-2023 16:20:36 INFO  LProxy:40 - load proxy >>
+21-11-2023 16:20:36 INFO  LProxy:46 - proxyType: 0
+21-11-2023 16:20:36 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 16:20:36 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 16:20:36 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 16:20:36 INFO  VerificationClient:317 - ::
+21-11-2023 16:20:36 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 16:20:36 INFO  VerificationClient:378 - Starting Client
+21-11-2023 16:20:39 INFO  VerificationClient:472 - Pin Verified
+21-11-2023 16:20:39 INFO  VerificationClient:473 - workFlow: null
+21-11-2023 16:20:39 INFO  VerificationClient:505 - pwd: 1234
+21-11-2023 16:20:39 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+21-11-2023 16:20:39 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+21-11-2023 16:20:39 INFO  VerificationClient:522 - 522
+21-11-2023 16:20:39 INFO  VerificationClient:1409 - Using Proxy false
+21-11-2023 16:27:29 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 16:27:29 INFO  LProperties:20 - init >>
+21-11-2023 16:27:29 INFO  LProperties:52 - init <<
+21-11-2023 16:27:29 INFO  VerificationClient:290 - name: Latham
+21-11-2023 16:27:29 INFO  LProxy:40 - load proxy >>
+21-11-2023 16:27:29 INFO  LProxy:46 - proxyType: 0
+21-11-2023 16:27:29 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 16:27:29 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 16:27:29 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 16:27:29 INFO  VerificationClient:317 - ::
+21-11-2023 16:27:29 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 16:27:29 INFO  VerificationClient:378 - Starting Client
+21-11-2023 16:27:32 INFO  VerificationClient:472 - Pin Verified
+21-11-2023 16:27:32 INFO  VerificationClient:473 - workFlow: null
+21-11-2023 16:27:32 INFO  VerificationClient:505 - pwd: 1234
+21-11-2023 16:27:32 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+21-11-2023 16:27:32 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+21-11-2023 16:27:32 INFO  VerificationClient:522 - 522
+21-11-2023 16:27:32 INFO  VerificationClient:1409 - Using Proxy false
+21-11-2023 16:29:18 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 16:29:18 INFO  LProperties:20 - init >>
+21-11-2023 16:29:18 INFO  LProperties:52 - init <<
+21-11-2023 16:29:18 INFO  VerificationClient:290 - name: Latham
+21-11-2023 16:29:18 INFO  LProxy:40 - load proxy >>
+21-11-2023 16:29:18 INFO  LProxy:46 - proxyType: 0
+21-11-2023 16:29:18 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 16:29:18 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 16:29:18 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 16:29:18 INFO  VerificationClient:317 - ::
+21-11-2023 16:29:18 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 16:29:18 INFO  VerificationClient:378 - Starting Client
+21-11-2023 16:29:21 INFO  VerificationClient:472 - Pin Verified
+21-11-2023 16:29:21 INFO  VerificationClient:473 - workFlow: null
+21-11-2023 16:29:21 INFO  VerificationClient:505 - pwd: 1234
+21-11-2023 16:29:21 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+21-11-2023 16:29:21 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+21-11-2023 16:29:21 INFO  VerificationClient:522 - 522
+21-11-2023 16:29:21 INFO  VerificationClient:1409 - Using Proxy false
+21-11-2023 16:58:12 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 16:58:12 INFO  LProperties:20 - init >>
+21-11-2023 16:58:12 INFO  LProperties:52 - init <<
+21-11-2023 16:58:12 INFO  VerificationClient:290 - name: Latham
+21-11-2023 16:58:12 INFO  LProxy:40 - load proxy >>
+21-11-2023 16:58:12 INFO  LProxy:46 - proxyType: 0
+21-11-2023 16:58:12 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 16:58:12 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 16:58:12 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 16:58:12 INFO  VerificationClient:317 - ::
+21-11-2023 16:58:12 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 16:58:12 INFO  VerificationClient:378 - Starting Client
+21-11-2023 16:58:15 INFO  VerificationClient:472 - Pin Verified
+21-11-2023 16:58:15 INFO  VerificationClient:473 - workFlow: null
+21-11-2023 16:58:15 INFO  VerificationClient:505 - pwd: 1234
+21-11-2023 16:58:15 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+21-11-2023 16:58:15 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+21-11-2023 16:58:15 INFO  VerificationClient:522 - 522
+21-11-2023 16:58:15 INFO  VerificationClient:1409 - Using Proxy false
+21-11-2023 16:59:43 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 16:59:43 INFO  LProperties:20 - init >>
+21-11-2023 16:59:43 INFO  LProperties:52 - init <<
+21-11-2023 16:59:43 INFO  VerificationClient:290 - name: Latham
+21-11-2023 16:59:43 INFO  LProxy:40 - load proxy >>
+21-11-2023 16:59:43 INFO  LProxy:46 - proxyType: 0
+21-11-2023 16:59:43 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 16:59:43 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 16:59:43 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 16:59:43 INFO  VerificationClient:317 - ::
+21-11-2023 16:59:43 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 16:59:43 INFO  VerificationClient:378 - Starting Client
+21-11-2023 16:59:46 INFO  VerificationClient:472 - Pin Verified
+21-11-2023 16:59:46 INFO  VerificationClient:473 - workFlow: null
+21-11-2023 16:59:46 INFO  VerificationClient:505 - pwd: 1234
+21-11-2023 16:59:46 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+21-11-2023 16:59:46 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+21-11-2023 16:59:46 INFO  VerificationClient:522 - 522
+21-11-2023 16:59:46 INFO  VerificationClient:1409 - Using Proxy false
+21-11-2023 17:00:56 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 17:00:56 INFO  LProperties:20 - init >>
+21-11-2023 17:00:56 INFO  LProperties:52 - init <<
+21-11-2023 17:00:56 INFO  VerificationClient:290 - name: Latham
+21-11-2023 17:00:56 INFO  LProxy:40 - load proxy >>
+21-11-2023 17:00:56 INFO  LProxy:46 - proxyType: 0
+21-11-2023 17:00:56 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 17:00:56 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 17:00:56 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 17:00:56 INFO  VerificationClient:317 - ::
+21-11-2023 17:00:56 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 17:00:56 INFO  VerificationClient:378 - Starting Client
+21-11-2023 17:01:00 INFO  VerificationClient:472 - Pin Verified
+21-11-2023 17:01:00 INFO  VerificationClient:473 - workFlow: null
+21-11-2023 17:01:00 INFO  VerificationClient:505 - pwd: 1234
+21-11-2023 17:01:00 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+21-11-2023 17:01:00 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+21-11-2023 17:01:00 INFO  VerificationClient:522 - 522
+21-11-2023 17:01:00 INFO  VerificationClient:1409 - Using Proxy false
+21-11-2023 17:03:53 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 17:03:53 INFO  LProperties:20 - init >>
+21-11-2023 17:03:53 INFO  LProperties:52 - init <<
+21-11-2023 17:03:53 INFO  VerificationClient:290 - name: Latham
+21-11-2023 17:03:53 INFO  LProxy:40 - load proxy >>
+21-11-2023 17:03:53 INFO  LProxy:46 - proxyType: 0
+21-11-2023 17:03:53 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 17:03:53 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 17:03:53 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 17:03:53 INFO  VerificationClient:317 - ::
+21-11-2023 17:03:53 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 17:03:53 INFO  VerificationClient:378 - Starting Client
+21-11-2023 17:03:57 INFO  VerificationClient:472 - Pin Verified
+21-11-2023 17:03:57 INFO  VerificationClient:473 - workFlow: null
+21-11-2023 17:03:57 INFO  VerificationClient:505 - pwd: 1234
+21-11-2023 17:03:57 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+21-11-2023 17:03:57 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+21-11-2023 17:03:57 INFO  VerificationClient:522 - 522
+21-11-2023 17:03:57 INFO  VerificationClient:1409 - Using Proxy false
+21-11-2023 17:05:21 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 17:05:21 INFO  LProperties:20 - init >>
+21-11-2023 17:05:21 INFO  LProperties:52 - init <<
+21-11-2023 17:05:21 INFO  VerificationClient:290 - name: Latham
+21-11-2023 17:05:21 INFO  LProxy:40 - load proxy >>
+21-11-2023 17:05:21 INFO  LProxy:46 - proxyType: 0
+21-11-2023 17:05:21 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 17:05:21 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 17:05:21 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 17:05:21 INFO  VerificationClient:317 - ::
+21-11-2023 17:05:21 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 17:05:21 INFO  VerificationClient:378 - Starting Client
+21-11-2023 17:05:25 INFO  VerificationClient:472 - Pin Verified
+21-11-2023 17:05:25 INFO  VerificationClient:473 - workFlow: null
+21-11-2023 17:05:25 INFO  VerificationClient:505 - pwd: 1234
+21-11-2023 17:05:25 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+21-11-2023 17:05:25 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+21-11-2023 17:05:25 INFO  VerificationClient:522 - 522
+21-11-2023 17:05:25 INFO  VerificationClient:1409 - Using Proxy false
+21-11-2023 17:06:31 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 17:06:31 INFO  LProperties:20 - init >>
+21-11-2023 17:06:31 INFO  LProperties:52 - init <<
+21-11-2023 17:06:31 INFO  VerificationClient:290 - name: Latham
+21-11-2023 17:06:31 INFO  LProxy:40 - load proxy >>
+21-11-2023 17:06:31 INFO  LProxy:46 - proxyType: 0
+21-11-2023 17:06:31 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 17:06:31 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 17:06:31 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 17:06:31 INFO  VerificationClient:317 - ::
+21-11-2023 17:06:31 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 17:06:31 INFO  VerificationClient:378 - Starting Client
+21-11-2023 17:06:35 INFO  VerificationClient:472 - Pin Verified
+21-11-2023 17:06:35 INFO  VerificationClient:473 - workFlow: null
+21-11-2023 17:06:35 INFO  VerificationClient:505 - pwd: 1234
+21-11-2023 17:06:35 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+21-11-2023 17:06:35 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+21-11-2023 17:06:35 INFO  VerificationClient:522 - 522
+21-11-2023 17:06:35 INFO  VerificationClient:1409 - Using Proxy false
+21-11-2023 17:29:13 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 17:29:13 INFO  LProperties:20 - init >>
+21-11-2023 17:29:13 INFO  LProperties:52 - init <<
+21-11-2023 17:29:13 INFO  VerificationClient:290 - name: Latham
+21-11-2023 17:29:13 INFO  LProxy:40 - load proxy >>
+21-11-2023 17:29:13 INFO  LProxy:46 - proxyType: 0
+21-11-2023 17:29:13 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 17:29:13 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 17:29:13 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 17:29:13 INFO  VerificationClient:317 - ::
+21-11-2023 17:29:13 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 17:29:13 INFO  VerificationClient:378 - Starting Client
+21-11-2023 17:29:15 INFO  VerificationClient:472 - Pin Verified
+21-11-2023 17:29:15 INFO  VerificationClient:473 - workFlow: null
+21-11-2023 17:29:15 INFO  VerificationClient:505 - pwd: 1234
+21-11-2023 17:29:15 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+21-11-2023 17:29:15 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+21-11-2023 17:29:15 INFO  VerificationClient:522 - 522
+21-11-2023 17:29:15 INFO  VerificationClient:1409 - Using Proxy false
+21-11-2023 17:46:07 INFO  VerificationClient:273 - Welcome To CBW Token
+21-11-2023 17:46:07 INFO  LProperties:20 - init >>
+21-11-2023 17:46:07 INFO  LProperties:52 - init <<
+21-11-2023 17:46:07 INFO  VerificationClient:290 - name: Latham
+21-11-2023 17:46:07 INFO  LProxy:40 - load proxy >>
+21-11-2023 17:46:07 INFO  LProxy:46 - proxyType: 0
+21-11-2023 17:46:07 INFO  VerificationClient:297 - bgColorStr:1579311
+21-11-2023 17:46:07 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+21-11-2023 17:46:07 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+21-11-2023 17:46:07 INFO  VerificationClient:317 - ::
+21-11-2023 17:46:07 INFO  VerificationClient:2005 - Created necessary Folders
+21-11-2023 17:46:07 INFO  VerificationClient:378 - Starting Client
+21-11-2023 17:46:09 INFO  VerificationClient:472 - Pin Verified
+21-11-2023 17:46:09 INFO  VerificationClient:473 - workFlow: null
+21-11-2023 17:46:09 INFO  VerificationClient:505 - pwd: 1234
+21-11-2023 17:46:09 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+21-11-2023 17:46:09 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+21-11-2023 17:46:09 INFO  VerificationClient:522 - 522
+21-11-2023 17:46:09 INFO  VerificationClient:1409 - Using Proxy false
+27-11-2023 20:10:00 INFO  VerificationClient:273 - Welcome To CBW Token
+27-11-2023 20:10:00 INFO  LProperties:20 - init >>
+27-11-2023 20:10:00 INFO  LProperties:52 - init <<
+27-11-2023 20:10:00 INFO  VerificationClient:290 - name: Latham
+27-11-2023 20:10:00 INFO  LProxy:40 - load proxy >>
+27-11-2023 20:10:00 INFO  LProxy:46 - proxyType: 0
+27-11-2023 20:10:00 INFO  VerificationClient:297 - bgColorStr:1579311
+27-11-2023 20:10:00 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+27-11-2023 20:10:00 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+27-11-2023 20:10:00 INFO  VerificationClient:317 - ::
+27-11-2023 20:10:00 INFO  VerificationClient:2005 - Created necessary Folders
+27-11-2023 20:10:00 INFO  VerificationClient:378 - Starting Client
+27-11-2023 20:10:03 INFO  VerificationClient:472 - Pin Verified
+27-11-2023 20:10:03 INFO  VerificationClient:473 - workFlow: null
+27-11-2023 20:10:03 INFO  VerificationClient:505 - pwd: 1234
+27-11-2023 20:10:03 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+27-11-2023 20:10:03 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+27-11-2023 20:10:03 INFO  VerificationClient:522 - 522
+27-11-2023 20:10:03 INFO  VerificationClient:1409 - Using Proxy false
+27-11-2023 20:21:34 INFO  VerificationClient:273 - Welcome To CBW Token
+27-11-2023 20:21:34 INFO  LProperties:20 - init >>
+27-11-2023 20:21:34 INFO  LProperties:52 - init <<
+27-11-2023 20:21:34 INFO  VerificationClient:290 - name: Latham
+27-11-2023 20:21:34 INFO  LProxy:40 - load proxy >>
+27-11-2023 20:21:34 INFO  LProxy:46 - proxyType: 0
+27-11-2023 20:21:34 INFO  VerificationClient:297 - bgColorStr:1579311
+27-11-2023 20:21:34 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+27-11-2023 20:21:34 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+27-11-2023 20:21:34 INFO  VerificationClient:317 - ::
+27-11-2023 20:21:34 INFO  VerificationClient:2005 - Created necessary Folders
+27-11-2023 20:21:34 INFO  VerificationClient:378 - Starting Client
+27-11-2023 20:21:36 INFO  VerificationClient:472 - Pin Verified
+27-11-2023 20:21:36 INFO  VerificationClient:473 - workFlow: null
+27-11-2023 20:21:36 INFO  VerificationClient:505 - pwd: 1234
+27-11-2023 20:21:36 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+27-11-2023 20:21:36 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+27-11-2023 20:21:36 INFO  VerificationClient:522 - 522
+27-11-2023 20:21:36 INFO  VerificationClient:1409 - Using Proxy false
+27-11-2023 20:34:02 INFO  VerificationClient:472 - Pin Verified
+27-11-2023 20:34:02 INFO  VerificationClient:473 - workFlow: null
+27-11-2023 20:34:02 INFO  VerificationClient:505 - pwd: 1234
+27-11-2023 20:34:02 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+27-11-2023 20:34:02 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+27-11-2023 20:34:02 INFO  VerificationClient:522 - 522
+27-11-2023 20:34:02 INFO  VerificationClient:1409 - Using Proxy false
+27-11-2023 20:36:02 INFO  VerificationClient:786 - Yes B64
+27-11-2023 20:36:02 INFO  VerificationClient:789 - decodedValue3000:QA00000002891063:200599668784408:54124711214:021000021
+28-11-2023 14:14:22 INFO  VerificationClient:273 - Welcome To CBW Token
+28-11-2023 14:14:22 INFO  LProperties:20 - init >>
+28-11-2023 14:14:22 INFO  LProperties:52 - init <<
+28-11-2023 14:14:22 INFO  VerificationClient:290 - name: Latham
+28-11-2023 14:14:22 INFO  LProxy:40 - load proxy >>
+28-11-2023 14:14:22 INFO  LProxy:46 - proxyType: 0
+28-11-2023 14:14:22 INFO  VerificationClient:297 - bgColorStr:1579311
+28-11-2023 14:14:22 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+28-11-2023 14:14:22 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+28-11-2023 14:14:22 INFO  VerificationClient:317 - ::
+28-11-2023 14:14:22 INFO  VerificationClient:2005 - Created necessary Folders
+28-11-2023 14:14:22 INFO  VerificationClient:378 - Starting Client
+28-11-2023 14:14:25 INFO  VerificationClient:472 - Pin Verified
+28-11-2023 14:14:25 INFO  VerificationClient:473 - workFlow: null
+28-11-2023 14:14:25 INFO  VerificationClient:505 - pwd: 1234
+28-11-2023 14:14:25 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+28-11-2023 14:14:25 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+28-11-2023 14:14:25 INFO  VerificationClient:522 - 522
+28-11-2023 14:14:25 INFO  VerificationClient:1409 - Using Proxy false
+28-11-2023 14:22:57 INFO  VerificationClient:273 - Welcome To CBW Token
+28-11-2023 14:22:57 INFO  LProperties:20 - init >>
+28-11-2023 14:22:57 INFO  LProperties:52 - init <<
+28-11-2023 14:22:57 INFO  VerificationClient:290 - name: Latham
+28-11-2023 14:22:57 INFO  LProxy:40 - load proxy >>
+28-11-2023 14:22:57 INFO  LProxy:46 - proxyType: 0
+28-11-2023 14:22:57 INFO  VerificationClient:297 - bgColorStr:1579311
+28-11-2023 14:22:57 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+28-11-2023 14:22:57 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+28-11-2023 14:22:57 INFO  VerificationClient:317 - ::
+28-11-2023 14:22:57 INFO  VerificationClient:2005 - Created necessary Folders
+28-11-2023 14:22:57 INFO  VerificationClient:378 - Starting Client
+28-11-2023 14:23:00 INFO  VerificationClient:472 - Pin Verified
+28-11-2023 14:23:00 INFO  VerificationClient:473 - workFlow: null
+28-11-2023 14:23:00 INFO  VerificationClient:505 - pwd: 1234
+28-11-2023 14:23:00 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+28-11-2023 14:23:00 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+28-11-2023 14:23:00 INFO  VerificationClient:522 - 522
+28-11-2023 14:23:00 INFO  VerificationClient:1409 - Using Proxy false
+28-11-2023 14:32:39 INFO  VerificationClient:273 - Welcome To CBW Token
+28-11-2023 14:32:39 INFO  LProperties:20 - init >>
+28-11-2023 14:32:39 INFO  LProperties:52 - init <<
+28-11-2023 14:32:39 INFO  VerificationClient:290 - name: Latham
+28-11-2023 14:32:39 INFO  LProxy:40 - load proxy >>
+28-11-2023 14:32:39 INFO  LProxy:46 - proxyType: 0
+28-11-2023 14:32:39 INFO  VerificationClient:297 - bgColorStr:1579311
+28-11-2023 14:32:39 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+28-11-2023 14:32:39 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+28-11-2023 14:32:39 INFO  VerificationClient:317 - ::
+28-11-2023 14:32:39 INFO  VerificationClient:2005 - Created necessary Folders
+28-11-2023 14:32:39 INFO  VerificationClient:378 - Starting Client
+28-11-2023 15:01:19 INFO  VerificationClient:273 - Welcome To CBW Token
+28-11-2023 15:01:19 INFO  LProperties:20 - init >>
+28-11-2023 15:01:19 INFO  LProperties:52 - init <<
+28-11-2023 15:01:19 INFO  VerificationClient:290 - name: Latham
+28-11-2023 15:01:19 INFO  LProxy:40 - load proxy >>
+28-11-2023 15:01:19 INFO  LProxy:46 - proxyType: 0
+28-11-2023 15:01:19 INFO  VerificationClient:297 - bgColorStr:1579311
+28-11-2023 15:01:19 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+28-11-2023 15:01:19 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+28-11-2023 15:01:19 INFO  VerificationClient:317 - ::
+28-11-2023 15:01:19 INFO  VerificationClient:2005 - Created necessary Folders
+28-11-2023 15:01:19 INFO  VerificationClient:378 - Starting Client
+28-11-2023 15:01:22 INFO  VerificationClient:472 - Pin Verified
+28-11-2023 15:01:22 INFO  VerificationClient:473 - workFlow: null
+28-11-2023 15:01:22 INFO  VerificationClient:505 - pwd: 1234
+28-11-2023 15:01:22 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+28-11-2023 15:01:22 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+28-11-2023 15:01:22 INFO  VerificationClient:522 - 522
+28-11-2023 15:01:22 INFO  VerificationClient:1409 - Using Proxy false
+28-11-2023 16:41:13 INFO  VerificationClient:273 - Welcome To CBW Token
+28-11-2023 16:41:13 INFO  LProperties:20 - init >>
+28-11-2023 16:41:13 INFO  LProperties:52 - init <<
+28-11-2023 16:41:13 INFO  VerificationClient:290 - name: Latham
+28-11-2023 16:41:13 INFO  LProxy:40 - load proxy >>
+28-11-2023 16:41:13 INFO  LProxy:46 - proxyType: 0
+28-11-2023 16:41:13 INFO  VerificationClient:297 - bgColorStr:1579311
+28-11-2023 16:41:13 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+28-11-2023 16:41:13 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+28-11-2023 16:41:13 INFO  VerificationClient:317 - ::
+28-11-2023 16:41:13 INFO  VerificationClient:2005 - Created necessary Folders
+28-11-2023 16:41:13 INFO  VerificationClient:378 - Starting Client
+28-11-2023 16:41:16 INFO  VerificationClient:472 - Pin Verified
+28-11-2023 16:41:16 INFO  VerificationClient:473 - workFlow: null
+28-11-2023 16:41:16 INFO  VerificationClient:505 - pwd: 1234
+28-11-2023 16:41:16 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+28-11-2023 16:41:16 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+28-11-2023 16:41:16 INFO  VerificationClient:522 - 522
+28-11-2023 16:41:16 INFO  VerificationClient:1409 - Using Proxy false
+28-11-2023 17:33:37 INFO  VerificationClient:273 - Welcome To CBW Token
+28-11-2023 17:33:37 INFO  LProperties:20 - init >>
+28-11-2023 17:33:37 INFO  LProperties:52 - init <<
+28-11-2023 17:33:37 INFO  VerificationClient:290 - name: Latham
+28-11-2023 17:33:37 INFO  LProxy:40 - load proxy >>
+28-11-2023 17:33:37 INFO  LProxy:46 - proxyType: 0
+28-11-2023 17:33:37 INFO  VerificationClient:297 - bgColorStr:1579311
+28-11-2023 17:33:37 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+28-11-2023 17:33:37 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+28-11-2023 17:33:37 INFO  VerificationClient:317 - ::
+28-11-2023 17:33:37 INFO  VerificationClient:2005 - Created necessary Folders
+28-11-2023 17:33:37 INFO  VerificationClient:378 - Starting Client
+28-11-2023 17:33:40 INFO  VerificationClient:472 - Pin Verified
+28-11-2023 17:33:40 INFO  VerificationClient:473 - workFlow: null
+28-11-2023 17:33:40 INFO  VerificationClient:505 - pwd: 1234
+28-11-2023 17:33:40 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+28-11-2023 17:33:40 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+28-11-2023 17:33:40 INFO  VerificationClient:522 - 522
+28-11-2023 17:33:40 INFO  VerificationClient:1409 - Using Proxy false
+13-12-2023 13:01:04 INFO  VerificationClient:273 - Welcome To CBW Token
+13-12-2023 13:01:04 INFO  LProperties:20 - init >>
+13-12-2023 13:01:04 INFO  LProperties:52 - init <<
+13-12-2023 13:01:04 INFO  VerificationClient:290 - name: Latham
+13-12-2023 13:01:04 INFO  LProxy:40 - load proxy >>
+13-12-2023 13:01:04 INFO  LProxy:46 - proxyType: 0
+13-12-2023 13:01:04 INFO  VerificationClient:297 - bgColorStr:1579311
+13-12-2023 13:01:04 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+13-12-2023 13:01:04 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+13-12-2023 13:01:04 INFO  VerificationClient:317 - ::
+13-12-2023 13:01:04 INFO  VerificationClient:2005 - Created necessary Folders
+13-12-2023 13:01:04 INFO  VerificationClient:378 - Starting Client
+13-12-2023 13:01:07 INFO  VerificationClient:472 - Pin Verified
+13-12-2023 13:01:07 INFO  VerificationClient:473 - workFlow: null
+13-12-2023 13:01:07 INFO  VerificationClient:505 - pwd: 1234
+13-12-2023 13:01:07 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+13-12-2023 13:01:07 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+13-12-2023 13:01:07 INFO  VerificationClient:522 - 522
+13-12-2023 13:01:07 INFO  VerificationClient:1409 - Using Proxy false
+13-12-2023 13:06:41 INFO  VerificationClient:273 - Welcome To CBW Token
+13-12-2023 13:06:41 INFO  LProperties:20 - init >>
+13-12-2023 13:06:41 INFO  LProperties:52 - init <<
+13-12-2023 13:06:41 INFO  VerificationClient:290 - name: Latham
+13-12-2023 13:06:41 INFO  LProxy:40 - load proxy >>
+13-12-2023 13:06:41 INFO  LProxy:46 - proxyType: 0
+13-12-2023 13:06:41 INFO  VerificationClient:297 - bgColorStr:1579311
+13-12-2023 13:06:41 INFO  VerificationClient:308 - arr:[DJP7, N1MC, YZDC, CXUZ, 0BRF, O2T4, VHP4, K22E, 95Z6, DP10, PWN9, A8BL, J2LN, 63GU, FID4, YUNT, R1UA, CNJT, 9TJL, YTYD, FH38, B9PC, SR2Y, DKDK, H5Z1, 7PPJ, FCJY, MN2F, S87M, 2YAM, U286, 6C3N, G4WF, 5LPD, T4XZ, 784E, 7FWE, B71H, JTL8, 54PF, 7F09, TDBT, 0SVZ, S0ZN, TFXE, I1JP, LIS0, CRKH, FJVJ, 21CF]
+13-12-2023 13:06:41 INFO  VerificationClient:315 - file:/home/rambabu/856b42fca5b44ea585f93d23e78434b8_ledger
+13-12-2023 13:06:41 INFO  VerificationClient:317 - ::
+13-12-2023 13:06:41 INFO  VerificationClient:2005 - Created necessary Folders
+13-12-2023 13:06:41 INFO  VerificationClient:378 - Starting Client
+13-12-2023 13:06:44 INFO  VerificationClient:472 - Pin Verified
+13-12-2023 13:06:44 INFO  VerificationClient:473 - workFlow: null
+13-12-2023 13:06:44 INFO  VerificationClient:505 - pwd: 1234
+13-12-2023 13:06:44 INFO  VerificationClient:506 - tokenUsedSet: [DJP7]
+13-12-2023 13:06:44 INFO  VerificationClient:507 - tokenSet: [FH38, J2LN, DP10, MN2F, 6C3N, CRKH, JTL8, S0ZN, U286, SR2Y, 95Z6, 7F09, 9TJL, 7PPJ, 784E, 0SVZ, B71H, VHP4, A8BL, T4XZ, CXUZ, O2T4, YZDC, YUNT, 2YAM, DJP7, R1UA, 54PF, YTYD, 0BRF, FID4, PWN9, FJVJ, LIS0, N1MC, S87M, H5Z1, TDBT, 7FWE, CNJT, FCJY, DKDK, I1JP, 63GU, 5LPD, B9PC, 21CF, K22E, TFXE, G4WF]
+13-12-2023 13:06:44 INFO  VerificationClient:522 - 522
+13-12-2023 13:06:44 INFO  VerificationClient:1409 - Using Proxy false

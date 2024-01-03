@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+    <link rel="stylesheet" href="res/bootstrap.min.css" type="text/css"/>
+    <link rel="stylesheet" href="res/karate-report.css" type="text/css"/>
+    <link rel="shortcut icon" href="favicon.ico"/>
+    <script type="text/javascript" src="res/jquery.min.js"></script>
+    <script type="text/javascript" src="res/jquery.tablesorter.min.js"></script>
+    <script type="text/javascript" src="res/bootstrap.min.js"></script>
+    <script type="text/javascript" src="res/karate-report.js"></script>
+    <script>
+!function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.async=!0,p.src=s.api_host+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+".people (stub)"},o="capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+posthog.init('phc_M6fKk3dSX9HjglkqPSybauGas45NINb7EgsPGU8N9g1',{
+  api_host:'https://app.posthog.com',
+  persistence:'localStorage',
+  autocapture:false,
+  capture_pageview:false,
+  api_transport:'sendBeacon',
+  loaded: function(posthog) { 
+    posthog.identify("3a9c4493-5cdc-45ee-b0d7-3e4ddf2c0cd4",{name:"rambabu"});
+    posthog.capture("report_feature",{karate_version:"1.2.0",karate_meta:null});
+  }
+});
+</script>
+  
+    <title>src.test.java.feature_files.ach_out</title>  
+  </head>
+  <body>   
+    <div id="root-container">
+      <div id="leftnav">
+                
+        <div>
+  <div class="nav-logo">
+    <a href="https://karatelabs.io">
+      <img src="karate-labs-logo-ring.svg" alt="Karate Labs"/>
+    </a>
+    <div class="nav-count">
+      <div id="nav-pass" class="bg-success">0</div>
+      <div id="nav-fail" class="bg-danger">1</div>
+    </div>
+  </div>
+  <div id="nav-type">
+    <div>Scenarios</div>
+  </div>         
+  <div id="nav-date">
+    <div>2022-11-18 01:04:01 PM</div>
+  </div>        
+</div>
+
+        <div class="nav-container">
+          <div class="nav-item failed">
+            <a href="#[1:6]"><span>[1:6]</span> <span>print PLUS url</span></a>
+          </div>
+        </div>
+      </div>
+      <div id="content">
+        <div class="page-heading alert alert-primary">
+          <a href="karate-summary.html">Summary</a><span class="feature-label">|</span>
+          <a href="karate-tags.html">Tags</a><span class="feature-label">|</span>
+          <span class="feature-label">Feature:</span>
+          <span class="feature-path">src/test/java/feature_files/ach_out.feature</span><span class="feature-label">|</span>
+          <span class="feature-name">Ach Out</span>
+          <span class="feature-description"></span>
+        </div>
+        <div class="scenario">
+          <div class="scenario-heading" id="[1:6]">
+            <div class="heading-container">
+              <div class="scenario-tags">
+                
+              </div>
+              <div class="scenario-keyword">
+                Scenario: <span>[1:6]</span>
+                <span class="scenario-name">print PLUS url</span>
+                <span></span>
+              </div>
+            </div>
+            <div class="scenario-time failed">
+              <span>ms:</span>&nbsp;<span>0</span>
+            </div>
+          </div>
+          
+          <div><div>
+  
+
+  
+
+  <div class="step-row">
+    <div class="step-container" id="0.7">
+      <div class="step-ref failed">7</div>
+      
+      <div class="step-cell failed">
+        <span>*</span>&nbsp;<span>print plus_Url</span>
+      </div>
+    </div>
+    <div class="time-cell failed">0</div>
+  </div>
+
+   
+  
+  
+
+  
+
+  <div class="preformatted" data-parent="0.7">13:04:01.876 src/test/java/feature_files/ach_out.feature:7
+* print plus_Url
+&gt;&gt; src/test/java/feature_files/ach_out.feature:6
+&gt;&gt; karate-config.js failed
+&gt;&gt; js failed:
+&gt;&gt;&gt;&gt;
+01: (function fn() {
+02:     karate.log(&#39;config init....&#39;);
+03:     karate.configure(&#39;connectTimeout&#39;, 40000);
+04:     karate.configure(&#39;readTimeout&#39;, 40000);
+05:     var jutil = Java.type(&#39;SimpleRunner&#39;)
+06: 
+07:     var mh = function (request) {
+08:         karate.log(user);
+09:         var sg = jutil.sign(request.bodyAsString, user.pk);
+10:         var hdrs = {
+11:             Authorization: &#39;Basic &#39; + jutil.btoa(user.user + &#39;:&#39; + user.password),
+12:             Signature: &#39;keyId=&#39; + user.keyId + &#39;,algorithm=ecdsa-sha256,signature=&#39; + sg
+13:         }
+14: 
+15:         return hdrs;
+16:     }
+17: 
+18:     var ctr=jutil.seq();
+19: 
+20:     karate.configure(&#39;headers&#39;, mh);
+21: 
+22:     var config = {
+23:         baseUrl: &#39;http://nginxmaster/PL/rpc/&#39;,
+24:         plus_Url:&#39;https://connectors.cbwpayments.com/PLMASTER&#39;,
+25:         bbaseUrl:&#39;https://connectors.cbwpayments.com/PL/rpc/&#39;,
+26:         gpsUrl:&#39;https://connectors.cbwpayments.com/gps/rpc/&#39;,
+27:         jutil: Java.type(&#39;SimpleRunner&#39;),
+28:         seq: function() {                        
+29:             return &#39;&#39;+jutil.seq();
+30:         },
+31:         
+32:         function referenceNumber(ref){
+33:         var d=new Date();
+34:         return (ref+ +d.getFullYear()+&#39;&#39;+(d.getMonth()+1)+&#39;&#39;+d.getDate()+&#39;&#39;+d.getMinutes()+&#39;&#39;+d.getMilliseconds());
+35:         }
+36: 
+37:         getTOTPCode: function(gauth) {
+38:             return &#39;&#39;+jutil.getTOTPCode(gauth);
+39:         },
+40: 
+41:         Tokenstr: function(req,xml){
+42:             let str=&#39;&#39;
+43:             var lines = xml.split(&quot;\n&quot;);
+44:             for (var line = 0; line &lt; lines.length; line++) {
+45:             str += lines[line];
+46:             }
+47:             req.tokenFile=str
+48:             return req
+49:         },
+50: 
+51:         signs: function(req,user){   
+52:             var signature = jutil.sign(JSON.stringify(req.params.payload), user.pk);       
+53:             req.api.signature = signature 
+54:             return req
+55:         },
+56:     
+57:         defaults:{
+58:             program:&quot;100000000132001&quot;,
+59:             product:&quot;PL&quot;,
+60:             glasset:&quot;GL1661249528995&quot;
+61:         },
+62: 
+63:         adminuser:{
+64:             user:&quot;g.naveenkumar+1@netsys-inc.com&quot;,
+65:             password:&quot;Test@1234&quot;,
+66:             keyId:&quot;2003&quot;,
+67:             pk: &#39;-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgyGFy9Fdc2oEZpMfC\nF+S6N0nLnu4o0jS0N6qRp+RafTuhRANCAASrV9YL2WW/2Qzaq3DPxjP93xxuMMlB\nBWtgoc+Pbs2f+rUCe+alrX+o97CdE17zR7HmZekqna0ylmUtyKaZ8tRg\n-----END PRIVATE KEY-----&#39;,
+68:         },
+69: 
+70:         netsys : {
+71:             user: &#39;admin@netsys.org&#39;,
+72:             password: &#39;Test@1234&#39;,
+73:             keyId: &#39;592&#39;,
+74:             pk: &#39;-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgyGFy9Fdc2oEZpMfC\nF+S6N0nLnu4o0jS0N6qRp+RafTuhRANCAASrV9YL2WW/2Qzaq3DPxjP93xxuMMlB\nBWtgoc+Pbs2f+rUCe+alrX+o97CdE17zR7HmZekqna0ylmUtyKaZ8tRg\n-----END PRIVATE KEY-----&#39;,
+75:             pubk:&#39;-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEq1fWC9llv9kM2qtwz8Yz/d8cbjDJ\nQQVrYKHPj27Nn/q1Anvmpa1/qPewnRNe80ex5mXpKp2tMpZlLcimmfLUYA==\n-----END PUBLIC KEY-----&#39;
+76:         
+77:         },
+78: 
+79:         legalrep:{
+80:             user: &#39;torreto@netxd.com&#39;,
+81:             password: &#39;Test@1234&#39;,
+82:             apikey:&quot;c5a158e75d3c4ab9943ad0b155d5ffd1&quot;,
+83:             credientials:&quot;Basic dG9ycmV0b0BuZXR4ZC5jb206YzVhMTU4ZTc1ZDNjNGFiOTk0M2FkMGIxNTVkNWZmZDE=&quot;,
+84:             pk: &#39;-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg5pfMF4E98GghSR5i\ne2Hq9aRq5swOgGh3iRaQ+WfbNWWhRANCAAQ5Y6PqKD5P3AUHFNo9Qia29V0HFF7x\nE39ezqDxVLQN6gmnM+VGoNSke7aL1iAXs+Nl/0MxMGEpMsLEDQmpW5Dl\n-----END PRIVATE KEY-----&#39;,      
+85:         },
+86: 
+87:         Business_Cust:{
+88:             user: &quot;g.naveenkumar+501@bankcbw.org&quot;,
+89:             password:&quot;Test@1234&quot;,
+90:             id: &#39;100000000000001&#39;,
+91:             id1: &#39;100000000631310&#39;,
+92:             acc_no: &#39;200583364057128&#39;,
+93:             acc_no1: &#39;200688567322908&#39;,
+94:             sender : &#39;BH05QUJZ89749664699159&#39;,
+95:             to: &#39;BH25TZOD55564797476216&#39;,
+96:             keyId: &#39;2004&#39;,
+97:             legalrepid: &#39;4006&#39;,
+98:             SSN: &#39;201480995&#39;,
+99:             phone: &#39;1245011201&#39;,
+100:             email: &#39;g.naveenkumar+1001@netsys-inc.com&#39;,
+101:             key: &#39;1003&#39;,
+102:             lemail:&#39;g.naveenkumar+101@bankcbw.org&#39;,
+103:             lphone:&#39;75586908&#39;,
+104:             lkey:&#39;1635333703&#39;,
+105:             lCR:&#39;661434556&#39;,
+106:             semail:&#39;g.naveenkumar+2001@bankcbw.org&#39;,
+107:             sphone:&#39;56895132&#39;,
+108:             scpr:&#39;622345452&#39;,
+109:             skey:&#39;1635419237&#39;,
+110:             sid:&#39;11001&#39;
+111:         }
+112:     }
+113:     return config;
+114:     
+115: }
+116: )
+&lt;&lt;&lt;&lt;
+org.graalvm.polyglot.PolyglotException: SyntaxError: Unnamed:32:17 Expected : but found referenceNumber
+        function referenceNumber(ref){
+                 ^
+Unnamed:37:8 Expected ) but found getTOTPCode
+        getTOTPCode: function(gauth) {
+        ^
+Unnamed:38:12 Invalid return statement
+            return &#39;&#39;+jutil.getTOTPCode(gauth);
+            ^
+Unnamed:39:8 Expected eof but found }
+        },
+        ^
+
+- org.graalvm.polyglot.Context.eval(Context.java:401)
+- com.intuit.karate.graal.JsEngine.evalForValue(JsEngine.java:141)
+- com.intuit.karate.graal.JsEngine.eval(JsEngine.java:137)
+- com.intuit.karate.core.ScenarioEngine.evalJs(ScenarioEngine.java:1344)
+- com.intuit.karate.core.ScenarioRuntime.evalConfigJs(ScenarioRuntime.java:313)
+- com.intuit.karate.core.ScenarioRuntime.beforeRun(ScenarioRuntime.java:398)
+- com.intuit.karate.core.ScenarioRuntime.run(ScenarioRuntime.java:430)
+
+js failed:
+&gt;&gt;&gt;&gt;
+01: function fn() {
+02:     karate.log(&#39;config init....&#39;);
+03:     karate.configure(&#39;connectTimeout&#39;, 40000);
+04:     karate.configure(&#39;readTimeout&#39;, 40000);
+05:     var jutil = Java.type(&#39;SimpleRunner&#39;)
+06: 
+07:     var mh = function (request) {
+08:         karate.log(user);
+09:         var sg = jutil.sign(request.bodyAsString, user.pk);
+10:         var hdrs = {
+11:             Authorization: &#39;Basic &#39; + jutil.btoa(user.user + &#39;:&#39; + user.password),
+12:             Signature: &#39;keyId=&#39; + user.keyId + &#39;,algorithm=ecdsa-sha256,signature=&#39; + sg
+13:         }
+14: 
+15:         return hdrs;
+16:     }
+17: 
+18:     var ctr=jutil.seq();
+19: 
+20:     karate.configure(&#39;headers&#39;, mh);
+21: 
+22:     var config = {
+23:         baseUrl: &#39;http://nginxmaster/PL/rpc/&#39;,
+24:         plus_Url:&#39;https://connectors.cbwpayments.com/PLMASTER&#39;,
+25:         bbaseUrl:&#39;https://connectors.cbwpayments.com/PL/rpc/&#39;,
+26:         gpsUrl:&#39;https://connectors.cbwpayments.com/gps/rpc/&#39;,
+27:         jutil: Java.type(&#39;SimpleRunner&#39;),
+28:         seq: function() {                        
+29:             return &#39;&#39;+jutil.seq();
+30:         },
+31:         
+32:         function referenceNumber(ref){
+33:         var d=new Date();
+34:         return (ref+ +d.getFullYear()+&#39;&#39;+(d.getMonth()+1)+&#39;&#39;+d.getDate()+&#39;&#39;+d.getMinutes()+&#39;&#39;+d.getMilliseconds());
+35:         }
+36: 
+37:         getTOTPCode: function(gauth) {
+38:             return &#39;&#39;+jutil.getTOTPCode(gauth);
+39:         },
+40: 
+41:         Tokenstr: function(req,xml){
+42:             let str=&#39;&#39;
+43:             var lines = xml.split(&quot;\n&quot;);
+44:             for (var line = 0; line &lt; lines.length; line++) {
+45:             str += lines[line];
+46:             }
+47:             req.tokenFile=str
+48:             return req
+49:         },
+50: 
+51:         signs: function(req,user){   
+52:             var signature = jutil.sign(JSON.stringify(req.params.payload), user.pk);       
+53:             req.api.signature = signature 
+54:             return req
+55:         },
+56:     
+57:         defaults:{
+58:             program:&quot;100000000132001&quot;,
+59:             product:&quot;PL&quot;,
+60:             glasset:&quot;GL1661249528995&quot;
+61:         },
+62: 
+63:         adminuser:{
+64:             user:&quot;g.naveenkumar+1@netsys-inc.com&quot;,
+65:             password:&quot;Test@1234&quot;,
+66:             keyId:&quot;2003&quot;,
+67:             pk: &#39;-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgyGFy9Fdc2oEZpMfC\nF+S6N0nLnu4o0jS0N6qRp+RafTuhRANCAASrV9YL2WW/2Qzaq3DPxjP93xxuMMlB\nBWtgoc+Pbs2f+rUCe+alrX+o97CdE17zR7HmZekqna0ylmUtyKaZ8tRg\n-----END PRIVATE KEY-----&#39;,
+68:         },
+69: 
+70:         netsys : {
+71:             user: &#39;admin@netsys.org&#39;,
+72:             password: &#39;Test@1234&#39;,
+73:             keyId: &#39;592&#39;,
+74:             pk: &#39;-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgyGFy9Fdc2oEZpMfC\nF+S6N0nLnu4o0jS0N6qRp+RafTuhRANCAASrV9YL2WW/2Qzaq3DPxjP93xxuMMlB\nBWtgoc+Pbs2f+rUCe+alrX+o97CdE17zR7HmZekqna0ylmUtyKaZ8tRg\n-----END PRIVATE KEY-----&#39;,
+75:             pubk:&#39;-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEq1fWC9llv9kM2qtwz8Yz/d8cbjDJ\nQQVrYKHPj27Nn/q1Anvmpa1/qPewnRNe80ex5mXpKp2tMpZlLcimmfLUYA==\n-----END PUBLIC KEY-----&#39;
+76:         
+77:         },
+78: 
+79:         legalrep:{
+80:             user: &#39;torreto@netxd.com&#39;,
+81:             password: &#39;Test@1234&#39;,
+82:             apikey:&quot;c5a158e75d3c4ab9943ad0b155d5ffd1&quot;,
+83:             credientials:&quot;Basic dG9ycmV0b0BuZXR4ZC5jb206YzVhMTU4ZTc1ZDNjNGFiOTk0M2FkMGIxNTVkNWZmZDE=&quot;,
+84:             pk: &#39;-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg5pfMF4E98GghSR5i\ne2Hq9aRq5swOgGh3iRaQ+WfbNWWhRANCAAQ5Y6PqKD5P3AUHFNo9Qia29V0HFF7x\nE39ezqDxVLQN6gmnM+VGoNSke7aL1iAXs+Nl/0MxMGEpMsLEDQmpW5Dl\n-----END PRIVATE KEY-----&#39;,      
+85:         },
+86: 
+87:         Business_Cust:{
+88:             user: &quot;g.naveenkumar+501@bankcbw.org&quot;,
+89:             password:&quot;Test@1234&quot;,
+90:             id: &#39;100000000000001&#39;,
+91:             id1: &#39;100000000631310&#39;,
+92:             acc_no: &#39;200583364057128&#39;,
+93:             acc_no1: &#39;200688567322908&#39;,
+94:             sender : &#39;BH05QUJZ89749664699159&#39;,
+95:             to: &#39;BH25TZOD55564797476216&#39;,
+96:             keyId: &#39;2004&#39;,
+97:             legalrepid: &#39;4006&#39;,
+98:             SSN: &#39;201480995&#39;,
+99:             phone: &#39;1245011201&#39;,
+100:             email: &#39;g.naveenkumar+1001@netsys-inc.com&#39;,
+101:             key: &#39;1003&#39;,
+102:             lemail:&#39;g.naveenkumar+101@bankcbw.org&#39;,
+103:             lphone:&#39;75586908&#39;,
+104:             lkey:&#39;1635333703&#39;,
+105:             lCR:&#39;661434556&#39;,
+106:             semail:&#39;g.naveenkumar+2001@bankcbw.org&#39;,
+107:             sphone:&#39;56895132&#39;,
+108:             scpr:&#39;622345452&#39;,
+109:             skey:&#39;1635419237&#39;,
+110:             sid:&#39;11001&#39;
+111:         }
+112:     }
+113:     return config;
+114:     
+115: }
+&lt;&lt;&lt;&lt;
+com.intuit.karate.KarateException: js failed:
+&gt;&gt;&gt;&gt;
+01: (function fn() {
+02:     karate.log(&#39;config init....&#39;);
+03:     karate.configure(&#39;connectTimeout&#39;, 40000);
+04:     karate.configure(&#39;readTimeout&#39;, 40000);
+05:     var jutil = Java.type(&#39;SimpleRunner&#39;)
+06: 
+07:     var mh = function (request) {
+08:         karate.log(user);
+09:         var sg = jutil.sign(request.bodyAsString, user.pk);
+10:         var hdrs = {
+11:             Authorization: &#39;Basic &#39; + jutil.btoa(user.user + &#39;:&#39; + user.password),
+12:             Signature: &#39;keyId=&#39; + user.keyId + &#39;,algorithm=ecdsa-sha256,signature=&#39; + sg
+13:         }
+14: 
+15:         return hdrs;
+16:     }
+17: 
+18:     var ctr=jutil.seq();
+19: 
+20:     karate.configure(&#39;headers&#39;, mh);
+21: 
+22:     var config = {
+23:         baseUrl: &#39;http://nginxmaster/PL/rpc/&#39;,
+24:         plus_Url:&#39;https://connectors.cbwpayments.com/PLMASTER&#39;,
+25:         bbaseUrl:&#39;https://connectors.cbwpayments.com/PL/rpc/&#39;,
+26:         gpsUrl:&#39;https://connectors.cbwpayments.com/gps/rpc/&#39;,
+27:         jutil: Java.type(&#39;SimpleRunner&#39;),
+28:         seq: function() {                        
+29:             return &#39;&#39;+jutil.seq();
+30:         },
+31:         
+32:         function referenceNumber(ref){
+33:         var d=new Date();
+34:         return (ref+ +d.getFullYear()+&#39;&#39;+(d.getMonth()+1)+&#39;&#39;+d.getDate()+&#39;&#39;+d.getMinutes()+&#39;&#39;+d.getMilliseconds());
+35:         }
+36: 
+37:         getTOTPCode: function(gauth) {
+38:             return &#39;&#39;+jutil.getTOTPCode(gauth);
+39:         },
+40: 
+41:         Tokenstr: function(req,xml){
+42:             let str=&#39;&#39;
+43:             var lines = xml.split(&quot;\n&quot;);
+44:             for (var line = 0; line &lt; lines.length; line++) {
+45:             str += lines[line];
+46:             }
+47:             req.tokenFile=str
+48:             return req
+49:         },
+50: 
+51:         signs: function(req,user){   
+52:             var signature = jutil.sign(JSON.stringify(req.params.payload), user.pk);       
+53:             req.api.signature = signature 
+54:             return req
+55:         },
+56:     
+57:         defaults:{
+58:             program:&quot;100000000132001&quot;,
+59:             product:&quot;PL&quot;,
+60:             glasset:&quot;GL1661249528995&quot;
+61:         },
+62: 
+63:         adminuser:{
+64:             user:&quot;g.naveenkumar+1@netsys-inc.com&quot;,
+65:             password:&quot;Test@1234&quot;,
+66:             keyId:&quot;2003&quot;,
+67:             pk: &#39;-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgyGFy9Fdc2oEZpMfC\nF+S6N0nLnu4o0jS0N6qRp+RafTuhRANCAASrV9YL2WW/2Qzaq3DPxjP93xxuMMlB\nBWtgoc+Pbs2f+rUCe+alrX+o97CdE17zR7HmZekqna0ylmUtyKaZ8tRg\n-----END PRIVATE KEY-----&#39;,
+68:         },
+69: 
+70:         netsys : {
+71:             user: &#39;admin@netsys.org&#39;,
+72:             password: &#39;Test@1234&#39;,
+73:             keyId: &#39;592&#39;,
+74:             pk: &#39;-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgyGFy9Fdc2oEZpMfC\nF+S6N0nLnu4o0jS0N6qRp+RafTuhRANCAASrV9YL2WW/2Qzaq3DPxjP93xxuMMlB\nBWtgoc+Pbs2f+rUCe+alrX+o97CdE17zR7HmZekqna0ylmUtyKaZ8tRg\n-----END PRIVATE KEY-----&#39;,
+75:             pubk:&#39;-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEq1fWC9llv9kM2qtwz8Yz/d8cbjDJ\nQQVrYKHPj27Nn/q1Anvmpa1/qPewnRNe80ex5mXpKp2tMpZlLcimmfLUYA==\n-----END PUBLIC KEY-----&#39;
+76:         
+77:         },
+78: 
+79:         legalrep:{
+80:             user: &#39;torreto@netxd.com&#39;,
+81:             password: &#39;Test@1234&#39;,
+82:             apikey:&quot;c5a158e75d3c4ab9943ad0b155d5ffd1&quot;,
+83:             credientials:&quot;Basic dG9ycmV0b0BuZXR4ZC5jb206YzVhMTU4ZTc1ZDNjNGFiOTk0M2FkMGIxNTVkNWZmZDE=&quot;,
+84:             pk: &#39;-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg5pfMF4E98GghSR5i\ne2Hq9aRq5swOgGh3iRaQ+WfbNWWhRANCAAQ5Y6PqKD5P3AUHFNo9Qia29V0HFF7x\nE39ezqDxVLQN6gmnM+VGoNSke7aL1iAXs+Nl/0MxMGEpMsLEDQmpW5Dl\n-----END PRIVATE KEY-----&#39;,      
+85:         },
+86: 
+87:         Business_Cust:{
+88:             user: &quot;g.naveenkumar+501@bankcbw.org&quot;,
+89:             password:&quot;Test@1234&quot;,
+90:             id: &#39;100000000000001&#39;,
+91:             id1: &#39;100000000631310&#39;,
+92:             acc_no: &#39;200583364057128&#39;,
+93:             acc_no1: &#39;200688567322908&#39;,
+94:             sender : &#39;BH05QUJZ89749664699159&#39;,
+95:             to: &#39;BH25TZOD55564797476216&#39;,
+96:             keyId: &#39;2004&#39;,
+97:             legalrepid: &#39;4006&#39;,
+98:             SSN: &#39;201480995&#39;,
+99:             phone: &#39;1245011201&#39;,
+100:             email: &#39;g.naveenkumar+1001@netsys-inc.com&#39;,
+101:             key: &#39;1003&#39;,
+102:             lemail:&#39;g.naveenkumar+101@bankcbw.org&#39;,
+103:             lphone:&#39;75586908&#39;,
+104:             lkey:&#39;1635333703&#39;,
+105:             lCR:&#39;661434556&#39;,
+106:             semail:&#39;g.naveenkumar+2001@bankcbw.org&#39;,
+107:             sphone:&#39;56895132&#39;,
+108:             scpr:&#39;622345452&#39;,
+109:             skey:&#39;1635419237&#39;,
+110:             sid:&#39;11001&#39;
+111:         }
+112:     }
+113:     return config;
+114:     
+115: }
+116: )
+&lt;&lt;&lt;&lt;
+org.graalvm.polyglot.PolyglotException: SyntaxError: Unnamed:32:17 Expected : but found referenceNumber
+        function referenceNumber(ref){
+                 ^
+Unnamed:37:8 Expected ) but found getTOTPCode
+        getTOTPCode: function(gauth) {
+        ^
+Unnamed:38:12 Invalid return statement
+            return &#39;&#39;+jutil.getTOTPCode(gauth);
+            ^
+Unnamed:39:8 Expected eof but found }
+        },
+        ^
+
+- org.graalvm.polyglot.Context.eval(Context.java:401)
+- com.intuit.karate.graal.JsEngine.evalForValue(JsEngine.java:141)
+- com.intuit.karate.graal.JsEngine.eval(JsEngine.java:137)
+- com.intuit.karate.core.ScenarioEngine.evalJs(ScenarioEngine.java:1344)
+- com.intuit.karate.core.ScenarioRuntime.evalConfigJs(ScenarioRuntime.java:313)
+- com.intuit.karate.core.ScenarioRuntime.beforeRun(ScenarioRuntime.java:398)
+- com.intuit.karate.core.ScenarioRuntime.run(ScenarioRuntime.java:430)
+
+- com.intuit.karate.graal.JsEngine.fromJsEvalException(JsEngine.java:233)
+- com.intuit.karate.core.ScenarioEngine.evalJs(ScenarioEngine.java:1346)
+- com.intuit.karate.core.ScenarioRuntime.evalConfigJs(ScenarioRuntime.java:313)
+- com.intuit.karate.core.ScenarioRuntime.beforeRun(ScenarioRuntime.java:398)
+- com.intuit.karate.core.ScenarioRuntime.run(ScenarioRuntime.java:430)
+- com.intuit.karate.core.FeatureRuntime.processScenario(FeatureRuntime.java:182)
+- java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)
+
+src/test/java/feature_files/ach_out.feature:7
+</div>   
+
+  
+
+</div>
+</div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+

@@ -1,0 +1,45 @@
+{
+    "method": "CustomerService.AddCustomer",
+    "id": 1.0,
+    "params": {
+        "api": {
+            "signature": "{{signature}}",
+            "keyId": "1420011",
+            "credential": "Basic cmVzdGFzc3VyZWRAbmV0eGQuY29tOlRlc3RAMTIzNA=="
+        },
+        "payload": {
+            "type": "BUSINESS",
+            "program": "MASTER",
+            "businessNameLegal": "SampleCustomer Technology RestAssured",
+            "dateestablished": "19901107",
+            "generalbusinessdescription": "industries",
+            "monthlyprojection": {
+                "amount": 10,
+                "currency": "USD"
+            },
+            "minapprovers": 1,
+            "identification": [
+                {
+                    "type": "SSN",
+                    "value": "874747497"
+                }
+            ],
+            "contact": {
+                "phonenumber": "7772369812",
+                "email": "tsptsp@netxd.com"
+            },
+            "address": {
+                "addressLine1": "722 Dictum Av",
+                "city": "SA",
+                "state": "MI",
+                "country": "US",
+                "zip": "47096"
+            },
+            "canCreateApiUsers": true,
+            "mobileAuthEnabled": true,
+            "qrCodeEnabled": false,
+            "kycStatus": "ACTIVE",
+            "customerData": "BUSINESS ACCOUNT"
+        }
+    }
+}

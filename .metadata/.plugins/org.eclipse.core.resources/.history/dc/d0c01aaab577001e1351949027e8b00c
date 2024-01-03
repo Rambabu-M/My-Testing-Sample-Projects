@@ -1,0 +1,14 @@
+
+
+
+package TestRunner;
+
+import com.intuit.karate.junit5.Karate;
+
+public class TestRunnerClass {
+	@Karate.Test
+    Karate testSample() {
+        return Karate.run("classpath:karate-sample.feature").relativeTo(getClass());
+    }
+
+}

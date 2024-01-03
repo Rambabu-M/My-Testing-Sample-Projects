@@ -1,0 +1,16 @@
+<testsuite failures="0" name="src/test/java/feature_files/ach_out.feature" skipped="0" tests="1" time="1.830648">
+  <testcase classname="src.test.java.feature_files.ach_out" name="positive flow" time="1.830648">
+    <system-out>* url plus_Url ............................................................ passed
+* path '/rpc/paymentv2' ................................................... passed
+* def user = legalrep ..................................................... passed
+* def req = read('./plus_payloads/ACH_OUT.json') .......................... passed
+* req.params.payload.reference = referenceNumber('ref') ................... passed
+* req.api.credential = user.credentials ................................... passed
+* req.api.apiKey = user.apikey ............................................ passed
+* def ach_out_req = signs(req,user) ....................................... passed
+* print ach_out_req ....................................................... passed
+* request ach_out_req ..................................................... passed
+* method post ............................................................. passed
+* status 200 .............................................................. passed</system-out>
+  </testcase>
+</testsuite>

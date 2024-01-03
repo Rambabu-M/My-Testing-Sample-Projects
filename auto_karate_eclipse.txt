@@ -1,0 +1,160 @@
+
+
+
+
+--Commands to install Maven in ubuntu--
+
+Step 1 : Install Eclipse from Ubuntu Software
+
+Step 2 : Install Maven from terminal 
+
+1. sudo apt update
+
+2. sudo apt install maven
+
+Follwed this link   https://linuxize.com/post/how-to-install-apache-maven-on-ubuntu-18-04/
+
+
+Create a Maven Project in Eclipse 
+
+Step 1 - File --> New -->Project --> Maven Project 
+
+Step 2 - In the Filter box typr "org.apache.maven.archetypes" and select maven-archetype-quickstart   version 1.4
+
+Step 3 - Enter GroupId & ArtifactId as your own name and click Finish
+
+
+Add Karate dependencies in the POM.XML File
+
+1. Open mvn repository in google and search for a KARATE APACHE & KARATE JUNIT dependency and paste it in the pom.xml file
+
+2. Create a folder under src/test/java
+
+
+
+Facing Error as NASHRON as null while executing the Karate Feature File
+
+Solution 1 - Change the project jdk [usually our project listen to the default jdk ] Now i am changing it to jdk 11
+
+Solution 2 - Add Karate core dependancy in the POM.xml file
+	
+	
+GO REST site 
+
+token - 9c463d03b4617bc5eed46bf35d1efc74e3455a299bd719f5ab56b82a8f577a2e
+
+
+
+
+
+
+Function toprint ref number 
+
+
+function referenceNumber(ref){
+        var d=new Date();
+        return (ref+ +d.getFullYear()+''+(d.getMonth()+1)+''+d.getDate()+''+d.getMinutes()+''+d.getMilliseconds());
+        },
+		
+		
+		
+		
+		var mh = function (request) {
+        karate.log(user);
+        var sg = jutil.sign(request.bodyAsString, user.pk);
+        var hdrs = {
+            Authorization: 'Basic ' + jutil.btoa(user.user + ':' + user.password),
+            Signature: 'keyId=' + user.keyId + ',algorithm=ecdsa-sha256,signature=' + sg
+        }
+
+        return hdrs;
+    }
+	
+	
+	
+	
+	var mh = function (request) {
+        karate.log(user);
+        var sg = jutil.sign(request.bodyAsString, user.pk);
+        var hdrs = {
+            Authorization: 'Basic ' + jutil.btoa(user.user + ':' + user.password),
+            Signature: 'keyId=' + user.keyId + ',algorithm=ecdsa-sha256,signature=' + sg
+        }
+
+        return hdrs;
+    }
+
+
+
+  var mh = function (request) {
+        karate.log(user);
+        var sg = jutil.sign(request.bodyAsString, user.pk);
+        var hdrs = {
+            Authorization: 'Basic ' + jutil.btoa(user.user + ':' + user.password),
+            Signature: 'keyId=' + user.keyId + ',algorithm=ecdsa-sha256,signature=' + sg
+        }
+
+        return hdrs;
+    }
+	
+	
+	
+	
+	Steps to run the Feature File
+	
+	
+	
+	
+	Task : 01 - 
+	
+	transaction number store in a variablre
+	transaction status store 
+	
+	
+22nd Nov Task	
+	
+	Task : 02
+	
+	check the transaction number available in the list transaction page 
+	
+	
+	
+	
+Ledger Master Admin User
+
+Step-1 Create an Admin user in PLDS MASTER LEDGER
+
+automation@netxd.com
+Test@1234
+3VG36AARYRPINQ7VWNCV3CYCOPU4QAN7
+
+device id - 356046
+
+Step-2 Generate public and private key in Terminal open ssl
+
+-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg1dedleOhbeLS+y42\nsDblL6sj9eoXg/u5rkRvpYXQSuihRANCAAQmssy5+7UpUfwVPVAShZGg+mOOGike\nZ9gbm3R6NJZyW/tJQQY6r/3oJBsvFqqfus9wD4pOZisBk7muZkIGjOTm\n-----END PRIVATE KEY-----
+
+-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJrLMufu1KVH8FT1QEoWRoPpjjhop\nHmfYG5t0ejSWclv7SUEGOq/96CQbLxaqn7rPcA+KTmYrAZO5rmZCBozk5g==\n-----END PUBLIC KEY-----
+
+
+Step - 3 
+
+Initiate Registre device usiing admin credentials - now you get otp and otp token in the notification
+
+Step - 4
+
+Complete register device and get the key id or device id
+
+
+
+
+
+
+
+
+Apache Jmeter Tutorials
+
+
+
+
+
